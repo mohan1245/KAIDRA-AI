@@ -5,7 +5,8 @@
   "main": "dist/server.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src/server.ts",
-    "build": "tsc",
+    "copy-assets": "mkdir -p dist/data && cp src/data/kb.json dist/data/kb.json",
+    "build": "tsc && npm run copy-assets",
     "start": "node dist/server.js"
   },
   "dependencies": {
