@@ -26,3 +26,15 @@
     "typescript": "^5.9.3"
   }
 }
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^5.x.x"
+  },
+  "scripts": {
+    "build": "tsc && npm run copy-assets",
+    "copy-assets": "cp -r src/data dist/data && cp -r src/prompts dist/prompts",
+    "start": "node dist/server.js"
+  }
+}
