@@ -5,7 +5,7 @@
   "main": "dist/server.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src/server.ts",
-    "copy-assets": "mkdir -p dist/data && cp src/data/kb.json dist/data/kb.json",
+    "copy-assets": "mkdir -p dist/data dist/prompts && cp src/data/kb.json dist/data/kb.json && cp -r src/prompts/. dist/prompts/",
     "build": "tsc && npm run copy-assets",
     "start": "node dist/server.js"
   },
@@ -24,17 +24,5 @@
     "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
-  }
-}
-{
-  "name": "your-project-name",
-  "version": "1.0.0",
-  "dependencies": {
-    "typescript": "^5.x.x"
-  },
-  "scripts": {
-    "build": "tsc && npm run copy-assets",
-    "copy-assets": "cp -r src/data dist/data && cp -r src/prompts dist/prompts",
-    "start": "node dist/server.js"
   }
 }
