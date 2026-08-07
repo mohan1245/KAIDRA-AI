@@ -1,912 +1,147 @@
-[
-  {
-    "id": "studio_overview",
-    "category": "Studio Overview",
-    "tags": [
-      "about",
-      "overview",
-      "what is bft",
-      "group training",
-      "hyrox",
-      "fitness studio",
-      "studio info",
-      "tell me about"
-    ],
-    "title": "About BFT Kampong Ubi",
-    "text": "BFT Kampong Ubi is a group fitness training studio that runs progressive, science-backed workouts led by certified coaches.\n\nWe are an authorised HYROX training facility, making us one of the best places to train for HYROX events in Singapore.\n\nStudio address: 414 Upper Paya Lebar Rd, Singapore 534994\nGoogle Maps: https://maps.app.goo.gl/NFmW1gHq6U5WjhCT7\nOfficial website: https://www.bodyfittraining.au/club/kampong-ubi\n\nWhat we offer:\n- Group fitness classes (strength, cardio, and functional training)\n- Progressive programming that adapts as you improve\n- Certified coaches in every session\n- Trial options for new members (free first class or 10-session trial pack)\n- Heart rate monitoring with BFT³ devices\n\nWe are a fitness-only studio — we do not offer food, drinks, coffee, or childcare."
-  },
-  {
-    "id": "how_bft_training_works",
-    "category": "Studio Overview",
-    "tags": [
-      "how it works",
-      "format",
-      "workout style",
-      "fitness",
-      "personal training",
-      "group coaching"
-    ],
-    "title": "How BFT Training Works",
-    "text": "BFT offers 50-minute strength-based group training sessions tailored to all fitness levels, focusing on cardio, strength, functional movement, and balance. Every exercise can be modified up or down, so beginners and advanced members can train side by side safely.\n\nWhile classes run in a group setting, the coaching style delivers personal-training-like benefits: coaches give hands-on form correction and individual attention, and are all trained to give nutrition advice too. It's not 1:1 personal training, but it delivers similar results at a lower cost, with the added motivation of a group environment."
-  },
-  {
-    "id": "studio_unique_selling_points",
-    "category": "Studio Overview",
-    "tags": [
-      "usp",
-      "why choose us",
-      "facilities",
-      "amenities",
-      "differentiators",
-      "vip lounge"
-    ],
-    "title": "Why Train With Us",
-    "text": "- Scientifically designed, high-performance group training methods\n- Wide variety of 50-minute classes (strength, cardio, core, and more)\n- Progression-based programming that builds over time\n- Small studio with a high coach-to-member ratio for more personalised attention\n- Exclusive VIP Lounge for rest, recovery, and recharge — one of the only BFT studios with a space this size\n- On-site yoga studio with weekly stretch/yoga sessions\n- Pantry and co-working space\n- Premium shower facilities with bath towels and amenities provided\n- Expert coaching team, including HYROX podium finishers, an ACE Academy coach, mixed martial arts-trained coaches, sports physio-trained coaches, and a master nutritionist\n- Weekly HYROX-specific training (not included in the trial)\n- Regular wellness workshops and community events"
-  },
-  {
-    "id": "bft_company_background",
-    "category": "Company Background",
-    "tags": [
-      "history",
-      "bft origin",
-      "global",
-      "background",
-      "founder",
-      "other locations"
-    ],
-    "title": "About BFT (Body Fit Training)",
-    "text": "BFT (Body Fit Training) was founded in 2017 in Melbourne, Australia, by Cameron Falloon. It has since grown into a global franchise with structured programming across 14 workout types, operating 300+ studios across Australia, New Zealand, Singapore, Hong Kong, Malaysia, Indonesia, South Korea, the UK, the US, Canada, Spain, and Portugal, with further expansion underway in Scandinavia and the MENA region (including a flagship studio in Qatar).\n\nMembership gives you the flexibility to train at any BFT studio worldwide — ideal for frequent travellers or anyone relocating.\n\nNote: trial offers are only valid at the specific studio where they were claimed and cannot be used at other locations."
-  },
-  {
-    "id": "official_website",
-    "category": "Company Background",
-    "tags": [
-      "website",
-      "official link",
-      "studio info",
-      "video",
-      "media"
-    ],
-    "title": "Official Website for BFT Kampong Ubi",
-    "text": "Our official studio website is https://www.bodyfittraining.au/club/kampong-ubi. You can find studio details, schedules, and any available media or videos there."
-  },
-  {
-    "id": "studio_address",
-    "category": "Location & Address",
-    "tags": [
-      "address",
-      "location",
-      "google map link",
-      "pin",
-      "postcode"
-    ],
-    "title": "Studio Address",
-    "text": "BFT Kampong Ubi Studio is located at: 414 Upper Paya Lebar Rd, Singapore 534994\nGoogle Maps: https://maps.app.goo.gl/NFmW1gHq6U5WjhCT7\n\nThis is the official, correct address and should be used across all systems, scripts, and customer communications."
-  },
-  {
-    "id": "location_landmarks",
-    "category": "Location & Address",
-    "tags": [
-      "landmarks",
-      "lorong ah soo",
-      "nearby",
-      "prestige point"
-    ],
-    "title": "Nearby Landmarks",
-    "text": "BFT Kampong Ubi is located very close to Lorong Ah Soo, in the same row as Prestige Point and Master Biryani Coffee Shop."
-  },
-  {
-    "id": "closest_studio_for_nearby_areas",
-    "category": "Location & Address",
-    "tags": [
-      "hougang",
-      "upper serangoon",
-      "kampong ubi",
-      "accessibility"
-    ],
-    "title": "Closest Studio for Members from Hougang and Upper Serangoon",
-    "text": "BFT Kampong Ubi is the closest and most convenient studio for members coming from Hougang, Upper Serangoon Road, Serangoon Central, Serangoon North, Bartley, Lorong Ah Soo, and Tai Keng Gardens."
-  },
-  {
-    "id": "public_transport_access",
-    "category": "Getting There & Parking",
-    "tags": [
-      "mrt",
-      "bus",
-      "public transport",
-      "transport",
-      "serangoon",
-      "tai seng",
-      "macpherson"
-    ],
-    "title": "Public Transport Access to BFT Kampong Ubi",
-    "text": "Our studio is well-served by public transport:\n\nFrom Serangoon MRT Station (near Nex Mall): Take Bus 45 or 58 to Block 161 — it's just 2 stops away, followed by a short walk to the studio. Alternatively, take Bus 22, 43, or 70M.\n\nFrom Tai Seng MRT Station: Buses 22, 24, 58, 62, 70M, and 80 can bring you close to the studio.\n\nFrom MacPherson MRT Station: Take Bus 24, 43, 70M, or 76.\n\nAll options lead to nearby stops within walking distance of the studio."
-  },
-  {
-    "id": "parking_options",
-    "category": "Getting There & Parking",
-    "tags": [
-      "parking",
-      "hdb",
-      "car",
-      "more parking",
-      "alternative parking"
-    ],
-    "title": "Parking Near BFT Kampong Ubi",
-    "text": "- Parking is available behind the gym\n- Additional parking around nearby landed properties\n- HDB estate carpark: HG76, Hougang St 11, 159A, Singapore 531159 — https://maps.app.goo.gl/2c5EEvbBJbsVitCZA\n- Dai Jin Factory Building: 362 Upper Paya Lebar Rd, #02-05, Singapore 534963 — https://maps.app.goo.gl/nTW9W4iynhNHHFTk8"
-  },
-  {
-    "id": "class_schedule_and_format",
-    "category": "Class Schedule",
-    "tags": [
-      "class schedule",
-      "class format",
-      "hours",
-      "session length",
-      "capacity",
-      "training block"
-    ],
-    "title": "Class Schedule and Format",
-    "text": "BFT Kampong Ubi runs group training sessions Monday to Saturday. Each session lasts 50 minutes and is capped at a maximum of 36 members per class, so it's worth booking ahead.\n\nWeekday class times (Monday–Friday):\n- Morning: 6:05 AM, 7:10 AM, 8:15 AM\n- Midday: 12:30 PM\n- Evening: 5:30 PM, 6:35 PM, 7:40 PM\n\nSaturday class times:\n- 6:30 AM (HYROX)\n- 8:00 AM, 9:15 AM, 10:30 AM, 11:45 AM\n\nThe studio is closed on Sundays, with no regular classes that day.\n\nProgramming follows a structured 10-week training block that combines resistance training, cardio intervals, and core work, so members progress systematically rather than doing random workouts week to week."
-  },
-  {
-    "id": "how_to_book_and_cancel_classes",
-    "category": "Booking & Cancellation",
-    "tags": [
-      "booking",
-      "bft app",
-      "website booking",
-      "cancellation policy",
-      "late cancel fee",
-      "reserve class"
-    ],
-    "title": "How to Book and Cancel Classes",
-    "text": "Classes can be booked up to 7 days in advance through either the BFT app or the BFT Kampong Ubi website. Simply log in, select an available time slot, and confirm your booking before the class reaches its 36-person capacity.\n\nIf you can't make a class, cancel at least 2 hours before the scheduled start time. Cancelling later than that is treated as a late cancellation and incurs a $10 late cancel fee. This policy helps keep spots fairly available for all members."
-  },
-  {
-    "id": "studio_manager_contact",
-    "category": "Booking & Cancellation",
-    "tags": [
-      "contact",
-      "studio manager",
-      "phone number",
-      "help"
-    ],
-    "title": "Studio Manager Contact",
-    "text": "For help with bookings, appointments, or anything the app or website can't resolve, you can contact the studio manager directly at +65 8919 0460."
-  },
-  {
-    "id": "what_to_bring_and_studio_rules",
-    "category": "Studio Policies",
-    "tags": [
-      "what to bring",
-      "workout clothes",
-      "training shoes",
-      "water bottle",
-      "towel",
-      "lockers",
-      "studio rules",
-      "dress code",
-      "pets",
-      "food"
-    ],
-    "title": "What to Bring & Studio Rules",
-    "text": "What to bring:\n- Comfortable workout clothes that allow a full range of movement\n- Training shoes with clean, non-marking soles, suitable for both cardio and strength work\n- A water bottle to stay hydrated through the 50-minute session\n- A small towel for personal use during and after class\n\nLockers are available on-site for storing personal belongings while you train. Please arrive 5–10 minutes before your class starts to allow time to set up.\n\nStudio rules:\n- No pets or animals of any kind\n- No outside food permitted in the studio\n- Water bottles are welcome\n- The studio does not sell or serve coffee, food, or drinks"
-  },
-  {
-    "id": "beginner_suitability",
-    "category": "Class Suitability",
-    "tags": [
-      "beginners",
-      "modifications",
-      "all fitness levels",
-      "suitable for beginners",
-      "join"
-    ],
-    "title": "Is BFT Suitable for Beginners?",
-    "text": "Yes — BFT Kampong Ubi classes are designed for beginners and experienced members alike. Every exercise has a modification option, so coaches can adjust movements to match each person's fitness level, experience, or any physical limitations.\n\nThis means newcomers, people returning after a break, or anyone managing a specific concern can train safely alongside more advanced members, and progress at their own pace over time."
-  },
-  {
-    "id": "coaching_qualifications",
-    "category": "Coaching & Staff",
-    "tags": [
-      "coaches",
-      "qualifications",
-      "head coach marcus",
-      "functional fitness",
-      "hyrox coaching",
-      "coach training"
-    ],
-    "title": "Coach Qualifications and Experience",
-    "text": "All coaches at BFT Kampong Ubi hold accredited personal training certifications and have a minimum of 2 years of hands-on coaching experience. Many are also trained specifically for HYROX-style workouts, and several have completed HYROX races themselves, bringing first-hand race experience to their coaching.\n\nThe head coach, Marcus, has 8 years of experience in functional fitness and specialises in helping beginners build strength safely and progressively.\n\nAll coaches take part in quarterly BFT methodology training updates, keeping their programming, coaching cues, and safety practices current and consistent across every session."
-  },
-  {
-    "id": "membership_plans_and_pricing",
-    "category": "Membership Plans & Policies",
-    "tags": [
-      "membership",
-      "pricing",
-      "class pack",
-      "monthly plan",
-      "committed plan",
-      "join",
-      "how to join",
-      "sign up",
-      "$139",
-      "$169",
-      "$280"
-    ],
-    "title": "Membership Plans and Pricing",
-    "text": "BFT Kampong Ubi offers three main membership options:\n\n- 10-Class Pack: $280, valid for 60 days from purchase — best for those who want flexibility without a recurring commitment\n- Monthly Unlimited: $169/month, no lock-in contract — unlimited classes, cancel any time\n- 12-Month Committed: $139/month with a 12-month agreement — the lowest monthly rate in exchange for a longer commitment\n\nAll new members are also entitled to one completely free trial class before choosing a plan (see Trial Offers).\n\nMembership can be set up and paid for via the BFT app or in person at the studio:\niOS: https://apps.apple.com/au/app/bft-booking/id1313264094\nAndroid: https://play.google.com/store/apps/details?id=com.onefitstop.bodyfittraining\n\nIMPORTANT for the AI agent: when presenting sign-up information, always cover all three parts — trial options, membership plans, and payment method. Never skip any part."
-  },
-  {
-    "id": "membership_cancellation_and_suspension",
-    "category": "Membership Plans & Policies",
-    "tags": [
-      "cancellation",
-      "suspension",
-      "no lock-in",
-      "pause membership",
-      "flexibility"
-    ],
-    "title": "Membership Cancellation and Suspension",
-    "text": "The Monthly Unlimited plan has no lock-in contract, so you can cancel at any time. Cancellations require 2 weeks' notice, and any billing that falls within that 2-week notice period will still be charged.\n\nMembers can also suspend their membership for up to 12 weeks per year at no charge. Suspension requests need 1 week's notice and must be for a minimum of 7 days.\n\nNote: the 12-Month Committed plan involves a 12-month agreement — confirm early-exit terms with the studio for members on this plan."
-  },
-  {
-    "id": "membership_conversation_approach",
-    "category": "Membership Plans & Policies",
-    "tags": [
-      "sales approach",
-      "discovery",
-      "membership conversation",
-      "post trial fees"
-    ],
-    "title": "How to Approach Membership Pricing Questions",
-    "text": "When a lead asks about membership pricing or post-trial options, don't just list numbers immediately. First understand their requirements and fitness goals, then recommend the membership option that best fits.\n\nTrial classes are a good opportunity for both sides — they help the member understand their own fitness goals, and help the studio understand what the member needs. It's often best to have the detailed pricing conversation once they've come in for a trial class."
-  },
-  {
-    "id": "age_requirements",
-    "category": "Membership Plans & Policies",
-    "tags": [
-      "age limit",
-      "parental supervision",
-      "minors",
-      "age requirement"
-    ],
-    "title": "Age Requirements and Supervision",
-    "text": "Participants must be at least 16 years old to attend classes. If someone under 16 wants to join, parental supervision is mandatory, and the parent must accompany the minor during workout sessions."
-  },
-  {
-    "id": "membership_transfer_policy",
-    "category": "Membership Plans & Policies",
-    "tags": [
-      "transfer",
-      "non-transferable",
-      "non-shareable",
-      "registration"
-    ],
-    "title": "Membership Transfer Policy",
-    "text": "Memberships, packages, and passes must be registered under the name of the person attending the classes. They are not transferable or shareable, so only the individual who signed up can participate."
-  },
-  {
-    "id": "trial_offers",
-    "category": "Trial Offers & Pricing",
-    "tags": [
-      "free trial",
-      "10-for-60",
-      "trial pack",
-      "new members",
-      "first class",
-      "no obligation",
-      "$60",
-      "14 days",
-      "10 sessions"
-    ],
-    "title": "Trial Offers for New Members",
-    "text": "BFT Kampong Ubi offers two trial options for new members:\n\n1. Free First Class — completely free, no payment required, no obligation to continue. One session to experience the training style, coaching quality, and studio environment.\n\n2. 10-for-60 Trial Pack — 10 sessions valid for 14 days, for $60. Ideal for anyone who wants more time to decide before committing to a membership.\n\nPayment for the trial pack can be made via the BFT app or in person at the studio on your first visit:\niOS: https://apps.apple.com/au/app/bft-booking/id1313264094\nAndroid: https://play.google.com/store/apps/details?id=com.onefitstop.bodyfittraining\n\nMore info: https://www.bodyfittraining.au/club/kampong-ubi\n\nIMPORTANT for the AI agent: always present both trial options clearly when a lead asks about trials."
-  },
-  {
-    "id": "hyrox_class_pricing_non_members",
-    "category": "Trial Offers & Pricing",
-    "tags": [
-      "hyrox",
-      "non-member pricing",
-      "drop-in",
-      "package pricing"
-    ],
-    "title": "HYROX Class Pricing for Non-Members",
-    "text": "For non-members, HYROX classes are priced at $300 for a 10-class package, or $35 for a single drop-in session. Regular weekly HYROX training is not included in the standard trial offers."
-  },
-  {
-    "id": "payment_methods",
-    "category": "Payment Methods",
-    "tags": [
-      "payment",
-      "how to pay",
-      "bft app",
-      "in-person payment",
-      "app download",
-      "ios",
-      "android"
-    ],
-    "title": "Payment Methods",
-    "text": "Payment for trial packs and memberships can be made two ways: through the BFT app, or in person at the studio.\n\nFor the 10-for-60 Trial Pack ($60): download the BFT app, select BFT Kampong Ubi as your studio, and pay there — or simply pay in person on your first visit.\n\nFor membership plans: payment is set up through the BFT app during sign-up.\n\nBFT app download links:\niOS: https://apps.apple.com/au/app/bft-booking/id1313264094\nAndroid: https://play.google.com/store/apps/details?id=com.onefitstop.bodyfittraining"
-  },
-  {
-    "id": "reset_challenge_payment",
-    "category": "Payment Methods",
-    "tags": [
-      "reset challenge",
-      "payment",
-      "studio payment",
-      "bft app"
-    ],
-    "title": "Paying for the BFT Reset Challenge",
-    "text": "You can pay for the BFT Reset Challenge directly at the studio, or through the BFT app: download the app, select BFT Kampong Ubi as your studio, choose the BFT Reset Challenge from the available packages, and complete payment there."
-  },
-  {
-    "id": "studio_tours",
-    "category": "Studio Tours",
-    "tags": [
-      "studio tour",
-      "studio visit",
-      "vip lounge",
-      "tour timings"
-    ],
-    "title": "Studio Tours",
-    "text": "We offer studio tours for a behind-the-scenes look at our facilities, including the VIP lounge.\n\nTour times:\n- Monday–Friday: 6 AM–10 AM, 12 PM–2 PM, 5 PM–9 PM\n- Saturday: 7 AM–12 PM\n- Sunday: studio closed, no tours or visits\n\nStudio visits are best scheduled just before or after a class."
-  },
-  {
-    "id": "bft_program_crewfit",
-    "category": "Program",
-    "tags": [
-      "cardio",
-      "teamwork",
-      "endurance",
-      "HIIT"
-    ],
-    "title": "CrewFit",
-    "text": "High-energy class where teamwork is key. Improve endurance and efficiency across all energy systems through high-intensity cardio conditioning. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/CrewFit%20Class%20Video.mp4"
-  },
-  {
-    "id": "bft_program_power",
-    "category": "Program",
-    "tags": [
-      "explosive",
-      "strength",
-      "speed"
-    ],
-    "title": "Power",
-    "text": "Focus on explosive, fast-twitch movements via plyometrics, heavy lifts, and complex drills. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Power.mp4"
-  },
-  {
-    "id": "bft_program_cardio_u",
-    "category": "Program",
-    "tags": [
-      "cardio",
-      "heart rate",
-      "recovery",
-      "personalized",
-      "endurance",
-      "individual focus"
-    ],
-    "title": "Cardio U",
-    "text": "A scientifically structured cardio session that uses prescribed heart rate zones to alternate between work and recovery periods. Participants maintain lower intensity during recovery to return to the target heart rate zone before increasing intensity again. Designed to improve cardiovascular endurance and assess recovery efficiency across all fitness levels. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/CardioU.mp4"
-  },
-  {
-    "id": "bft_program_strength_endurance",
-    "category": "Program",
-    "tags": [
-      "strength",
-      "endurance",
-      "cardio"
-    ],
-    "title": "Strength Endurance",
-    "text": "Resistance program mixing strength and cardio to build sustained muscular endurance. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Strength%20Endurance.mp4"
-  },
-  {
-    "id": "bft_program_beast_mode",
-    "category": "Program",
-    "tags": [
-      "martial arts",
-      "boxing",
-      "conditioning"
-    ],
-    "title": "Beast Mode",
-    "text": "Martial-arts inspired session with bag work, partner work, and cardio conditioning for all levels. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Beast%20Mode.mp4"
-  },
-  {
-    "id": "bft_program_cardio_hiit",
-    "category": "Program",
-    "tags": [
-      "cardio",
-      "HIIT",
-      "EPOC"
-    ],
-    "title": "Cardio HIIT",
-    "text": "Short burst, high-intensity cardio with high calorie burn and strong EPOC effect for prolonged post-workout metabolism boost. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Cardio%20HIIT.mp4"
-  },
-  {
-    "id": "bft_program_shred",
-    "category": "Program",
-    "tags": [
-      "strength",
-      "cardio",
-      "hybrid"
-    ],
-    "title": "Shred",
-    "text": "Hybrid session combining cardio and strength to build lean muscle and aerobic capacity. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Shred.mp4"
-  },
-  {
-    "id": "bft_program_cardio_summit",
-    "category": "Program",
-    "tags": [
-      "cardio",
-      "endurance",
-      "aerobic"
-    ],
-    "title": "Cardio Summit",
-    "text": "Endurance-focused cardio workout with long efforts targeting aerobic capacity. Ideal after other cardio classes. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Cardio%20Summit.mp4"
-  },
-  {
-    "id": "bft_program_pump",
-    "category": "Program",
-    "tags": [
-      "resistance",
-      "hypertrophy",
-      "isolation"
-    ],
-    "title": "Pump",
-    "text": "High-volume resistance workout targeting upper/lower body muscle groups, designed to keep metabolism high for 36 hours post-class. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Pump.mp4"
-  },
-  {
-    "id": "bft_program_program_overview",
-    "category": "Program",
-    "tags": [
-      "types of classes",
-      "class list",
-      "programs",
-      "workout formats",
-      "training types",
-      "sessions",
-      "workouts",
-      "fitness classes"
-    ],
-    "title": "Program Overview",
-    "text": "BFT offers a wide variety of science-backed training programs designed to improve strength, endurance, mobility, and cardiovascular fitness. Each class type is unique in structure and purpose, ensuring well-rounded results for members of all fitness levels. Available class types include: Cardio U, Hyper, XTX, CrewFit, Pump, Strength, Cardio HIIT, Balanced, Beast Mode, Power, Strength Endurance, Cardio Summit, Shred, HIRT. Each class is coached and structured to deliver results while keeping the experience engaging and varied."
-  },
-  {
-    "id": "bft_program_balanced",
-    "category": "Program",
-    "tags": [
-      "mobility",
-      "stability",
-      "full-body",
-      "core"
-    ],
-    "title": "Balanced",
-    "text": "Targeting mobility, stability, and functional movement to improve performance across all other workouts. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Balance.mp4"
-  },
-  {
-    "id": "bft_program_hirt",
-    "category": "Program",
-    "tags": [
-      "resistance",
-      "functional",
-      "EMOM",
-      "AMRAP",
-      "AFAP"
-    ],
-    "title": "HIRT",
-    "text": "High-Intensity Resistance Training - This session offers three different styles of training in one class - EMOM \"every minute on the minute\", AMRAP \"as many reps as possible\" & AFAP \"as fast as possible\". A class designed to complement and reinforce the movement patterns taken in our Strength workouts. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Hirt.mp4"
-  },
-  {
-    "id": "bft_program_strength",
-    "category": "Program",
-    "tags": [
-      "strength",
-      "compound",
-      "foundation"
-    ],
-    "title": "Strength",
-    "text": "Foundational BFT session using compound lifts to build overall strength and lean muscle. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Strength.mp4"
-  },
-  {
-    "id": "bft_program_xtx",
-    "category": "Program",
-    "tags": [
-      "full-body",
-      "metabolic",
-      "strength",
-      "cardio",
-      "aerobic",
-      "endurance"
-    ],
-    "title": "XTX",
-    "text": "A full-body workout combining metabolic complexes with resistance exercises. It targets the aerobic system through a mix of short and long-duration efforts, designed to elevate and sustain metabolic activity for improved endurance and fat burn. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/XTX.mp4"
-  },
-  {
-    "id": "bft_program_hyper",
-    "category": "Program",
-    "tags": [
-      "hypertrophy",
-      "strength",
-      "resistance",
-      "unilateral",
-      "functional"
-    ],
-    "title": "Hyper",
-    "text": "A high-volume hypertrophy-style resistance workout focused on both form and function. It incorporates unilateral and lateral movements with variations on conventional strength exercises. The session alternates between upper and lower body focus, targeting prime movers, stabilizers, and core muscles for a balanced training effect. Video: https://21614986.fs1.hubspotusercontent-na1.net/hubfs/21614986/Videos/Hyper.mp4"
-  },
-  {
-    "id": "bft_technology_app_integration",
-    "category": "Technology",
-    "tags": [
-      "app",
-      "tracking",
-      "goals"
-    ],
-    "title": "App Integration",
-    "text": "The BFT³ app tracks session history, PXI scores, heart rate zones, and lets you set goals and monitor trends."
-  },
-  {
-    "id": "bft_technology_bft_overview",
-    "category": "Technology",
-    "tags": [
-      "PXI",
-      "heart rate",
-      "smart training"
-    ],
-    "title": "BFT³ Overview",
-    "text": "BFT³ is Body Fit Training's exclusive heart rate monitoring system designed to personalize workouts and track performance in real time. It combines science, gamification, and smart data."
-  },
-  {
-    "id": "bft_technology_pxi_rewards",
-    "category": "Technology",
-    "tags": [
-      "gamification",
-      "PXI",
-      "milestones"
-    ],
-    "title": "PXI Rewards",
-    "text": "Members unlock rewards and levels by achieving PXI targets like 1800+ per month — promoting consistency and long-term motivation."
-  },
-  {
-    "id": "bft_technology_pxi_scoring",
-    "category": "Technology",
-    "tags": [
-      "PXI",
-      "performance",
-      "zones"
-    ],
-    "title": "PXI Scoring",
-    "text": "PXI is calculated based on:\n- Time spent in target heart rate zones\n- How consistently you hit the session's intended heart rate zone\n- Duration and effort across the session\n\nThis encourages training smarter, not just harder."
-  },
-  {
-    "id": "bft_technology_bft_realtime_feedback",
-    "category": "Technology",
-    "tags": [
-      "screens",
-      "PXI",
-      "tracking"
-    ],
-    "title": "BFT³ Real-Time Feedback",
-    "text": "- Live heart rate and PXI score shown on studio screens\n- Helps members adjust effort during the workout\n- Keeps motivation and focus high"
-  },
-  {
-    "id": "bft_technology_heart_rate_zones",
-    "category": "Technology",
-    "tags": [
-      "zones",
-      "HRmax",
-      "cardio"
-    ],
-    "title": "Heart Rate Zones",
-    "text": "| Zone | Intensity | % HRmax | Description |\n|---|---|---|---|\n| 1 | Very Light | 50–60% | Warm-up, active recovery |\n| 2 | Light | 60–70% | Builds endurance, burns fat |\n| 3 | Moderate | 70–80% | Improves aerobic capacity |\n| 4 | Hard | 80–90% | Boosts speed, fitness |\n| 5 | Maximum Effort | 90–100% | Sprint or high-intensity peaks |\n\nBFT³ rewards zone-specific accuracy, not just effort."
-  },
-  {
-    "id": "heart_rate_monitor_pricing",
-    "category": "Technology",
-    "tags": [
-      "heart rate monitor",
-      "bft3",
-      "pricing",
-      "fitness tools"
-    ],
-    "title": "Heart Rate Monitor Pricing",
-    "text": "The BFT³ heart rate monitor is priced at $149."
-  },
-  {
-    "id": "hyrox_race_format",
-    "category": "HYROX Training",
-    "tags": [
-      "hyrox",
-      "endurance race",
-      "functional fitness",
-      "running",
-      "race format"
-    ],
-    "title": "Understanding HYROX Training and Race Format",
-    "text": "Hyrox training involves preparing for an endurance race that combines running and functional workouts. The Hyrox race format includes a series of eight 1 km runs, each followed by a functional fitness workout like sled pushes, rowing, burpees, or wall balls. This structure challenges both cardiovascular and muscular endurance, making Hyrox training a dynamic and comprehensive form of fitness preparation."
-  },
-  {
-    "id": "hyrox_weekday_prep",
-    "category": "HYROX Training",
-    "tags": [
-      "hyrox",
-      "weekday training",
-      "race preparation",
-      "monday to friday"
-    ],
-    "title": "Preparing for HYROX During the Week",
-    "text": "Our regular training programs are well-suited for HYROX competitions. While full race simulations typically occur on Saturdays or Sundays, you can still prepare during our weekday sessions, Monday to Friday, which are designed to improve your performance in HYROX events."
-  },
-  {
-    "id": "overview_of_the_bft_kampong_ubi_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "BFT Reset Challenge",
-      "8-week program",
-      "training and lifestyle",
-      "habit reset",
-      "body composition",
-      "BFT Kampong Ubi",
-      "member and non-member"
-    ],
-    "title": "Overview of the BFT Kampong Ubi Reset Challenge",
-    "text": "The BFT Reset Challenge at BFT Kampong Ubi is an 8‑week structured training and lifestyle program designed to help participants reset habits, improve fitness performance, or change body composition. It combines BFT group training, personalised nutrition, ongoing accountability, coach support, and community events. The program is open to both existing BFT Kampong Ubi members and non‑members, with different pricing and access depending on membership status."
-  },
-  {
-    "id": "reset_challenge_streams_and_selection_process",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "challenge streams",
-      "Lifestyle stream",
-      "Perform stream",
-      "Transform stream",
-      "onboarding",
-      "Challenge Hub"
-    ],
-    "title": "Reset Challenge Streams and Selection Process",
-    "text": "During onboarding into the Challenge Hub, each participant selects one Reset Challenge stream: Lifestyle, Perform, or Transform. This choice guides the education they receive, the coaching emphasis, and how accountability is structured. The selected stream aligns with each participant's primary goal—habit building, performance enhancement, or physical transformation—and informs how coaches and resources are tailored throughout the 8 weeks."
-  },
-  {
-    "id": "eligibility_and_who_can_join_the_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "eligibility",
-      "who can join",
-      "members",
-      "non-members",
-      "all fitness levels",
-      "stream customisation"
-    ],
-    "title": "Eligibility and Who Can Join the Reset Challenge",
-    "text": "The BFT Kampong Ubi Reset Challenge is open to both current BFT Kampong Ubi members and non‑members. It caters to a wide range of fitness levels, from beginners to advanced trainees, because the three streams—Lifestyle, Perform, and Transform—allow participants to choose a path that matches their goals and experience. Non‑members can use the challenge as a structured entry point into regular training with BFT."
-  },
-  {
-    "id": "key_focus_areas_of_the_lifestyle_stream",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "Lifestyle stream focus",
-      "nutrition basics",
-      "mindset",
-      "accountability",
-      "sustainable lifestyle",
-      "habit formation"
-    ],
-    "title": "Key Focus Areas of the Lifestyle Stream",
-    "text": "The Lifestyle Stream centres on building and reinforcing positive daily habits. Education and coaching focus on nutrition fundamentals, improving sleep quality, managing mindset, and strengthening personal accountability. The objective is to help participants implement realistic, sustainable lifestyle changes rather than quick fixes, supporting long‑term consistency and general wellbeing."
-  },
-  {
-    "id": "lifestyle_stream_goals_and_ideal_participants",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "Lifestyle stream",
-      "habit building",
-      "overall health",
-      "routines",
-      "sleep and mindset",
-      "sustainable habits"
-    ],
-    "title": "Lifestyle Stream Goals and Ideal Participants",
-    "text": "The Lifestyle Stream is best suited to participants who want to build consistent routines and improve overall health rather than chase specific performance or physique milestones. It is aimed at people focusing on everyday wellness, including nutrition, sleep, mindset, and daily habits. This stream is ideal for those looking to reset their lifestyle, improve energy, and create sustainable, long‑term behaviour change."
-  },
-  {
-    "id": "perform_stream_goals_and_ideal_participants",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "Perform stream",
-      "athletic performance",
-      "event preparation",
-      "HYROX training",
-      "strength and fitness benchmarks",
-      "performance goals"
-    ],
-    "title": "Perform Stream Goals and Ideal Participants",
-    "text": "The Perform Stream is tailored for participants who want to enhance athletic performance, train for specific events such as HYROX or races, or push measurable strength and fitness benchmarks. It suits individuals who already have a base level of training and are looking to fine‑tune their performance, increase speed, power, and endurance, and perform better in competitive or goal‑driven settings."
-  },
-  {
-    "id": "key_focus_areas_of_the_perform_stream",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "performance nutrition",
-      "recovery",
-      "fuelling strategies",
-      "coach consultations",
-      "training optimisation",
-      "Perform stream focus"
-    ],
-    "title": "Key Focus Areas of the Perform Stream",
-    "text": "The Perform Stream emphasises performance‑oriented nutrition, optimal fuelling before and after sessions, and structured recovery strategies. Participants receive coach consultations focused on training optimisation, helping them plan sessions, manage workload, and align nutrition with performance targets. The stream is designed to maximise physical output and efficiency while reducing the risk of overtraining."
-  },
-  {
-    "id": "transform_stream_goals_and_ideal_participants",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "Transform stream",
-      "body transformation",
-      "fat loss",
-      "muscle gain",
-      "physique goals",
-      "body composition change"
-    ],
-    "title": "Transform Stream Goals and Ideal Participants",
-    "text": "The Transform Stream is designed for participants whose primary goal is physical change, such as improving body composition, losing body fat, or gaining muscle. It appeals to individuals who are motivated by measurable physique results and want structured guidance to track and drive those changes over the 8 weeks."
-  },
-  {
-    "id": "key_focus_areas_of_the_transform_stream",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "Evolt tracking",
-      "results-driven nutrition",
-      "goal setting",
-      "accountability",
-      "Transform stream focus",
-      "data-driven progress"
-    ],
-    "title": "Key Focus Areas of the Transform Stream",
-    "text": "The Transform Stream focuses on data‑driven body composition tracking using Evolt scans, combined with results‑oriented nutrition planning. Coaches support participants with goal setting, accountability, and consistent training and nutrition adherence. Progress is monitored through objective metrics and regular check‑ins to keep participants aligned with their transformation targets."
-  },
-  {
-    "id": "coach_consultations_and_stream-tailored_guidance",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "coach consultations",
-      "goal planning",
-      "scan reviews",
-      "action plans",
-      "stream-tailored coaching",
-      "individual support"
-    ],
-    "title": "Coach Consultations and Stream-Tailored Guidance",
-    "text": "As part of the Reset Challenge, participants receive coach consultations that are aligned with their chosen stream. These sessions typically cover goal setting, review of Evolt or other progress scans, and development of concrete action plans for training and nutrition. Coaches help participants interpret their data, refine their strategies, and stay accountable to their commitments throughout the challenge."
-  },
-  {
-    "id": "program_components_of_the_bft_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "group training",
-      "personalised nutrition",
-      "accountability",
-      "coach support",
-      "community events",
-      "holistic program"
-    ],
-    "title": "Program Components of the BFT Reset Challenge",
-    "text": "The BFT Reset Challenge is built around several integrated components: structured BFT group training sessions, personalised nutrition planning, and accountability tools to track habits and progress. Participants receive guidance and check‑ins from coaches as well as support from the broader BFT community through studio‑led events. Together, these elements create a comprehensive approach to training, nutrition, and lifestyle change over the 8 weeks."
-  },
-  {
-    "id": "personalised_nutrition_plans_in_the_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "nutrition plans",
-      "calorie-based plans",
-      "macro breakdown",
-      "meal customisation",
-      "shopping lists",
-      "personalised nutrition"
-    ],
-    "title": "Personalised Nutrition Plans in the Reset Challenge",
-    "text": "Every participant in the Reset Challenge receives access to personalised nutrition plans. These plans offer multiple calorie‑based options to suit different body types and goals, along with customisable meal ideas. Each plan includes a breakdown of macronutrients and calories, plus weekly shopping lists to simplify food preparation. This structure helps participants align their eating habits with their chosen stream and desired outcomes."
-  },
-  {
-    "id": "accountability_tracking_tools_in_the_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "accountability trackers",
-      "attendance tracking",
-      "nutrition adherence",
-      "sleep tracking",
-      "habit tracking",
-      "behaviour monitoring"
-    ],
-    "title": "Accountability Tracking Tools in the Reset Challenge",
-    "text": "The Reset Challenge uses structured accountability trackers to help participants stay consistent. These tools monitor training attendance, nutrition adherence, and key lifestyle behaviours such as sleep and daily habits. By tracking these inputs regularly, participants and coaches can identify patterns, address obstacles, and make adjustments that support better outcomes across all streams."
-  },
-  {
-    "id": "challenge_hub_features_and_benefits",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "Challenge Hub",
-      "goal setting",
-      "progress tracking",
-      "checklists",
-      "educational content",
-      "digital platform"
-    ],
-    "title": "Challenge Hub Features and Benefits",
-    "text": "All Reset Challenge participants receive access to the Challenge Hub, a central digital platform for managing their 8‑week journey. Within the Hub, members can set goals, complete daily and weekly checklists, and monitor their progress over time. The platform also provides educational content tailored to each stream, helping participants understand training, nutrition, and habit strategies relevant to their goals."
-  },
-  {
-    "id": "studio_events_during_the_bft_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "studio events",
-      "workshops",
-      "community sessions",
-      "mid-challenge events",
-      "end-of-challenge celebrations",
-      "member engagement"
-    ],
-    "title": "Studio Events During the BFT Reset Challenge",
-    "text": "Participants gain access to a range of studio‑hosted events throughout the challenge. These may include educational workshops, community training sessions, and special mid‑challenge and end‑of‑challenge events. The events are designed to build community, deepen knowledge, keep motivation high, and celebrate progress at key milestones."
-  },
-  {
-    "id": "competitions_and_prizes_in_the_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "studio competitions",
-      "prizes",
-      "stream-based awards",
-      "accountability rewards",
-      "member motivation",
-      "challenge incentives"
-    ],
-    "title": "Competitions and Prizes in the Reset Challenge",
-    "text": "All Reset Challenge participants are eligible for studio‑based competitions and prize opportunities. Awards may be stream‑specific, recognising achievements within Lifestyle, Perform, or Transform, as well as rewards tied to accountability, such as consistent attendance or adherence to program tasks. These incentives are intended to keep members engaged and recognise effort and progress, not just end results."
-  },
-  {
-    "id": "sign-up_process_for_members",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "member sign-up",
-      "registration process",
-      "in-studio sign-up",
-      "communication channels",
-      "onboarding",
-      "Challenge Hub access"
-    ],
-    "title": "Sign-Up Process for Members",
-    "text": "Existing BFT Kampong Ubi members can register for the Reset Challenge either in person at the studio or through the studio's official communication channels. Once registered, they will be onboarded into the Challenge Hub, where they can choose their stream, set goals, and access all program resources."
-  },
-  {
-    "id": "sign-up_process_and_access_for_non-members",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "non-member sign-up",
-      "registration",
-      "temporary access",
-      "8-week unlimited classes",
-      "onboarding support",
-      "Challenge Hub setup",
-      "non member sign up",
-      "non member joining"
-    ],
-    "title": "Sign-Up Process and Access for Non-Members",
-    "text": "Non‑members interested in the BFT Kampong Ubi Reset Challenge are guided through a multi‑step onboarding process. This includes completing challenge registration, activating temporary 8‑week unlimited access to BFT classes for the challenge period, and being set up in the Challenge Hub. Through this process, non‑members gain the same program tools and support as existing members while experiencing BFT training for the duration of the challenge."
-  },
-  {
-    "id": "evolt_body_composition_scans_in_the_reset_challenge",
-    "category": "BFT Reset Challenge",
-    "tags": [
-      "evolt scan",
-      "body composition",
-      "transform stream",
-      "baseline scan",
-      "progress tracking"
-    ],
-    "title": "Evolt Body Composition Scans in the Reset Challenge",
-    "text": "Evolt body composition scans are an important element of the BFT Reset Challenge, especially for participants in the Transform Stream. Initial scans are recommended shortly before each challenge begins, to help set realistic goals, guide selection of the appropriate nutrition plan, and provide a baseline for tracking progress. Additional scans may be offered during or after the challenge depending on studio guidance and the participant's stream."
+{
+  "business": {
+    "name": "Clear Cut",
+    "industry": "Fitness & Personal Training Studio",
+    "tagline": "Get Cut. Stay Cut.",
+    "description": "Clear Cut is a boutique strength and conditioning studio offering personal training, small-group HIIT classes, and body transformation coaching for clients who want visible, lasting results.",
+    "phone": "[Studio phone number]",
+    "email": "[Studio email address]",
+    "website": "[Studio website URL]",
+    "address": {
+      "street": "[Street address]",
+      "city": "[City]",
+      "state": "[State]",
+      "zip": "[ZIP code]",
+      "country": "[Country]"
+    },
+    "social": {
+      "instagram": "[@handle]",
+      "facebook": "[Page URL]",
+      "whatsapp_business": "[WhatsApp Business number]"
+    },
+    "hours": {
+      "monday": "6:00 AM - 8:00 PM",
+      "tuesday": "6:00 AM - 8:00 PM",
+      "wednesday": "6:00 AM - 8:00 PM",
+      "thursday": "6:00 AM - 8:00 PM",
+      "friday": "6:00 AM - 7:00 PM",
+      "saturday": "8:00 AM - 2:00 PM",
+      "sunday": "Closed"
+    },
+    "timezone": "[e.g. America/New_York]"
+  },
+  "services": [
+    {
+      "id": "personal-training",
+      "name": "1:1 Personal Training",
+      "description": "Fully customized one-on-one coaching built around your specific goals, whether that's fat loss, muscle gain, or general performance.",
+      "duration_minutes": 60,
+      "price": "[Price per session]"
+    },
+    {
+      "id": "group-hiit",
+      "name": "Small-Group HIIT Classes",
+      "description": "High-intensity interval training in small groups, so coaching still feels personal.",
+      "duration_minutes": 45,
+      "price": "[Price per class or class pack]"
+    },
+    {
+      "id": "transformation-program",
+      "name": "12-Week Body Transformation Program",
+      "description": "A structured program combining training, nutrition coaching, and progress tracking to help clients get visibly leaner and stronger.",
+      "price": "[Program price]"
+    },
+    {
+      "id": "nutrition-coaching",
+      "name": "Nutrition Coaching",
+      "description": "One-on-one nutrition guidance to support training results, including meal planning and habit coaching.",
+      "duration_minutes": 30,
+      "price": "[Price per session or per month]"
+    },
+    {
+      "id": "trial-class",
+      "name": "Free Trial Class",
+      "description": "A no-cost first class for new members to experience the coaching style before committing.",
+      "duration_minutes": 45,
+      "price": "Free"
+    }
+  ],
+  "membership_plans": [
+    {
+      "name": "Drop-In",
+      "price": "[Price] / class",
+      "includes": "Single class access, no commitment"
+    },
+    {
+      "name": "8-Class Pack",
+      "price": "[Price]",
+      "includes": "8 group classes, valid for 60 days"
+    },
+    {
+      "name": "Unlimited Monthly",
+      "price": "[Price] / month",
+      "includes": "Unlimited group classes, 10% off personal training"
+    }
+  ],
+  "policies": {
+    "cancellation": "Classes can be cancelled or rescheduled up to 4 hours before the start time with no penalty. Late cancellations may forfeit the class credit.",
+    "late_arrival": "Clients arriving more than 10 minutes late may be asked to join the next available session for safety reasons.",
+    "payment_methods": ["Credit/Debit Card", "Apple Pay", "Google Pay"],
+    "trial_offer": "New clients get one free trial class before choosing a plan.",
+    "refunds": "[Studio refund policy]"
+  },
+  "faqs": [
+    {
+      "question": "Do you offer a free trial?",
+      "answer": "Yes, new members get one free trial class before deciding on a plan."
+    },
+    {
+      "question": "Do I need any experience to join?",
+      "answer": "No prior experience is needed. Sessions are coached and scaled to your current fitness level."
+    },
+    {
+      "question": "What should I bring to my first session?",
+      "answer": "Comfortable workout clothes, athletic shoes, and a water bottle. Mats and equipment are provided."
+    },
+    {
+      "question": "Can I freeze or cancel my membership?",
+      "answer": "Yes, memberships can be paused or cancelled with notice as outlined in the membership agreement."
+    },
+    {
+      "question": "Do you offer nutrition support?",
+      "answer": "Yes, nutrition coaching is available as a standalone service or bundled with the transformation program."
+    }
+  ],
+  "booking": {
+    "channels": ["WhatsApp", "Instagram", "Web Chat", "SMS"],
+    "how_it_works": "Clients can book a class, trial, or consultation directly through chat. The agent checks availability and confirms the booking automatically.",
+    "booking_link": "[Booking/calendar link]",
+    "requires_deposit": false,
+    "confirmation_method": "SMS and email confirmation sent immediately after booking"
+  },
+  "team": [
+    {
+      "name": "[Coach/owner name]",
+      "role": "Head Coach / Owner",
+      "bio": "[Short bio: certifications, specialties, years of experience]"
+    }
+  ],
+  "agent_config": {
+    "agent_name": "Clear Cut Assistant",
+    "tone": "Friendly, motivating, and direct, like a knowledgeable coach, not a generic bot.",
+    "greeting_message": "Hey! Welcome to Clear Cut. Are you looking to book a class, ask about pricing, or grab a free trial?",
+    "primary_goals": [
+      "Answer questions about services, pricing, and hours",
+      "Book trial classes and sessions",
+      "Qualify leads by asking about fitness goals",
+      "Follow up with warm leads who haven't booked yet"
+    ],
+    "escalate_to_human_if": [
+      "Client asks about injury, medical condition, or liability concerns",
+      "Client requests a refund or billing dispute",
+      "Client expresses a complaint about staff or service quality",
+      "Question falls outside this knowledge base"
+    ],
+    "languages": ["English"]
   }
-]
+}
