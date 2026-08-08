@@ -1,147 +1,114 @@
-{
-  "business": {
-    "name": "Clear Cut",
-    "industry": "Fitness & Personal Training Studio",
-    "tagline": "Get Cut. Stay Cut.",
-    "description": "Clear Cut is a boutique strength and conditioning studio offering personal training, small-group HIIT classes, and body transformation coaching for clients who want visible, lasting results.",
-    "phone": "[Studio phone number]",
-    "email": "[Studio email address]",
-    "website": "[Studio website URL]",
-    "address": {
-      "street": "[Street address]",
-      "city": "[City]",
-      "state": "[State]",
-      "zip": "[ZIP code]",
-      "country": "[Country]"
-    },
-    "social": {
-      "instagram": "[@handle]",
-      "facebook": "[Page URL]",
-      "whatsapp_business": "[WhatsApp Business number]"
-    },
-    "hours": {
-      "monday": "6:00 AM - 8:00 PM",
-      "tuesday": "6:00 AM - 8:00 PM",
-      "wednesday": "6:00 AM - 8:00 PM",
-      "thursday": "6:00 AM - 8:00 PM",
-      "friday": "6:00 AM - 7:00 PM",
-      "saturday": "8:00 AM - 2:00 PM",
-      "sunday": "Closed"
-    },
-    "timezone": "[e.g. America/New_York]"
+[
+  {
+    "id": "kaidra-001",
+    "category": "overview",
+    "tags": ["what is kaidra", "what does kaidra do", "about kaidra", "product", "overview"],
+    "title": "What Kaidra AI is",
+    "text": "Kaidra AI provides 24/7 AI agents that engage customers instantly across WhatsApp, Instagram, Web chat, and SMS. It boosts bookings, enhances retention, and automates day-to-day operations for service businesses. Kaidra's tagline is 'Scale Conversations. Grow Revenue.'"
   },
-  "services": [
-    {
-      "id": "personal-training",
-      "name": "1:1 Personal Training",
-      "description": "Fully customized one-on-one coaching built around your specific goals, whether that's fat loss, muscle gain, or general performance.",
-      "duration_minutes": 60,
-      "price": "[Price per session]"
-    },
-    {
-      "id": "group-hiit",
-      "name": "Small-Group HIIT Classes",
-      "description": "High-intensity interval training in small groups, so coaching still feels personal.",
-      "duration_minutes": 45,
-      "price": "[Price per class or class pack]"
-    },
-    {
-      "id": "transformation-program",
-      "name": "12-Week Body Transformation Program",
-      "description": "A structured program combining training, nutrition coaching, and progress tracking to help clients get visibly leaner and stronger.",
-      "price": "[Program price]"
-    },
-    {
-      "id": "nutrition-coaching",
-      "name": "Nutrition Coaching",
-      "description": "One-on-one nutrition guidance to support training results, including meal planning and habit coaching.",
-      "duration_minutes": 30,
-      "price": "[Price per session or per month]"
-    },
-    {
-      "id": "trial-class",
-      "name": "Free Trial Class",
-      "description": "A no-cost first class for new members to experience the coaching style before committing.",
-      "duration_minutes": 45,
-      "price": "Free"
-    }
-  ],
-  "membership_plans": [
-    {
-      "name": "Drop-In",
-      "price": "[Price] / class",
-      "includes": "Single class access, no commitment"
-    },
-    {
-      "name": "8-Class Pack",
-      "price": "[Price]",
-      "includes": "8 group classes, valid for 60 days"
-    },
-    {
-      "name": "Unlimited Monthly",
-      "price": "[Price] / month",
-      "includes": "Unlimited group classes, 10% off personal training"
-    }
-  ],
-  "policies": {
-    "cancellation": "Classes can be cancelled or rescheduled up to 4 hours before the start time with no penalty. Late cancellations may forfeit the class credit.",
-    "late_arrival": "Clients arriving more than 10 minutes late may be asked to join the next available session for safety reasons.",
-    "payment_methods": ["Credit/Debit Card", "Apple Pay", "Google Pay"],
-    "trial_offer": "New clients get one free trial class before choosing a plan.",
-    "refunds": "[Studio refund policy]"
+  {
+    "id": "kaidra-002",
+    "category": "overview",
+    "tags": ["who is it for", "target market", "industries", "who uses kaidra", "gym", "fitness", "salon", "spa", "clinic", "wellness", "healthcare", "beauty"],
+    "title": "Who Kaidra is for",
+    "text": "Kaidra is built for businesses in the fitness, beauty, wellness, and healthcare sectors - including fitness studios, gyms, salons, spas, clinics, and physiotherapy or rehabilitation centres. While it's marketed heavily toward fitness studios, its Terms of Service explicitly cover this broader range of service businesses."
   },
-  "faqs": [
-    {
-      "question": "Do you offer a free trial?",
-      "answer": "Yes, new members get one free trial class before deciding on a plan."
-    },
-    {
-      "question": "Do I need any experience to join?",
-      "answer": "No prior experience is needed. Sessions are coached and scaled to your current fitness level."
-    },
-    {
-      "question": "What should I bring to my first session?",
-      "answer": "Comfortable workout clothes, athletic shoes, and a water bottle. Mats and equipment are provided."
-    },
-    {
-      "question": "Can I freeze or cancel my membership?",
-      "answer": "Yes, memberships can be paused or cancelled with notice as outlined in the membership agreement."
-    },
-    {
-      "question": "Do you offer nutrition support?",
-      "answer": "Yes, nutrition coaching is available as a standalone service or bundled with the transformation program."
-    }
-  ],
-  "booking": {
-    "channels": ["WhatsApp", "Instagram", "Web Chat", "SMS"],
-    "how_it_works": "Clients can book a class, trial, or consultation directly through chat. The agent checks availability and confirms the booking automatically.",
-    "booking_link": "[Booking/calendar link]",
-    "requires_deposit": false,
-    "confirmation_method": "SMS and email confirmation sent immediately after booking"
+  {
+    "id": "kaidra-003",
+    "category": "channels",
+    "tags": ["channels", "whatsapp", "instagram", "sms", "web chat", "messenger", "where does it work"],
+    "title": "Channels Kaidra supports",
+    "text": "Kaidra engages customers across WhatsApp, Instagram, Messenger, SMS, and Web chat - all from one unified system."
   },
-  "team": [
-    {
-      "name": "[Coach/owner name]",
-      "role": "Head Coach / Owner",
-      "bio": "[Short bio: certifications, specialties, years of experience]"
-    }
-  ],
-  "agent_config": {
-    "agent_name": "Clear Cut Assistant",
-    "tone": "Friendly, motivating, and direct, like a knowledgeable coach, not a generic bot.",
-    "greeting_message": "Hey! Welcome to Clear Cut. Are you looking to book a class, ask about pricing, or grab a free trial?",
-    "primary_goals": [
-      "Answer questions about services, pricing, and hours",
-      "Book trial classes and sessions",
-      "Qualify leads by asking about fitness goals",
-      "Follow up with warm leads who haven't booked yet"
-    ],
-    "escalate_to_human_if": [
-      "Client asks about injury, medical condition, or liability concerns",
-      "Client requests a refund or billing dispute",
-      "Client expresses a complaint about staff or service quality",
-      "Question falls outside this knowledge base"
-    ],
-    "languages": ["English"]
+  {
+    "id": "kaidra-004",
+    "category": "agents",
+    "tags": ["ai agents", "lead conversion", "retention", "upsell", "support", "copilot", "what agents", "features", "capabilities"],
+    "title": "Kaidra's three AI agents",
+    "text": "Kaidra provides three AI agents that work together: (1) Lead Conversion & Growth Agent - engages new leads instantly, answers questions, books appointments 24/7, and nurtures trial users with reminders and follow-ups. (2) Retention & Upsell Agent - identifies at-risk clients early, re-engages them with targeted messages to prevent churn, and recommends relevant upgrades. (3) Support & Staff Copilot - handles FAQs, scheduling, and daily support tasks while giving staff instant access to client notes and insights."
+  },
+  {
+    "id": "kaidra-005",
+    "category": "integrations",
+    "tags": ["integrate", "integration", "crm", "mindbody", "glofox", "hapana", "zapier", "calendly", "stripe", "booking system", "payments"],
+    "title": "Integrations",
+    "text": "Kaidra integrates with Mindbody, Glofox, Hapana, Zapier, Calendly, WhatsApp, Instagram, and Stripe - unifying bookings, payments, scheduling, and messaging in one place."
+  },
+  {
+    "id": "kaidra-006",
+    "category": "pricing",
+    "tags": ["price", "pricing", "cost", "how much", "plan", "plans", "tiers"],
+    "title": "Pricing",
+    "text": "Kaidra doesn't publish pricing or plan tiers on its website - pricing is sales-led. After a demo/discovery conversation, a business receives a specific Order Confirmation with its fees. There's no self-serve pricing page."
+  },
+  {
+    "id": "kaidra-007",
+    "category": "onboarding",
+    "tags": ["onboarding", "setup", "how long", "implement", "get started", "agent lab", "technical skills"],
+    "title": "Getting started / onboarding process",
+    "text": "Kaidra's onboarding has 3 steps: (1) Onboard & Explore - meet the onboarding team, share business details, and try 'Agent Lab' (a sandbox to preview how your AI agent responds) before going live. (2) Connect & Configure - Kaidra integrates your CRM, lead sources, WhatsApp, and other channels, then configures the agent to your workflows; you then get trial access. (3) Go Live & Scale - after a successful trial, you activate your subscription and Kaidra handles engagement, follow-ups, and conversations around the clock. No technical skills are required - the onboarding team handles setup."
+  },
+  {
+    "id": "kaidra-008",
+    "category": "results",
+    "tags": ["results", "roi", "stats", "response time", "operational load", "booking rate", "proof"],
+    "title": "Results and stats",
+    "text": "Kaidra responds in under 3 seconds, 24/7. Businesses typically see about 38% less operational load as the AI handles FAQs, follow-ups, and trial bookings. Most businesses see positive ROI within 30 days. Client testimonials cite booking-rate increases of up to 40%."
+  },
+  {
+    "id": "kaidra-009",
+    "category": "social_proof",
+    "tags": ["testimonials", "reviews", "clients", "customers", "who uses kaidra", "case studies", "brands"],
+    "title": "Client testimonials and brands",
+    "text": "Kaidra is used by studios and wellness brands including Club Revive, FTI, BFT, F45, and Anytime Fitness. Testimonial highlights: Anytime Fitness - 'Kaidra increased our booking rate by 40% in the first month. It's like having our best receptionist working 24/7.' BFT - 'We went from missing late-night leads to converting them instantly.' F45 Training - 'Our coaches were overloaded with inquiries. Kaidra now handles first responses and follow-ups, letting our team focus on members.'"
+  },
+  {
+    "id": "kaidra-010",
+    "category": "trust",
+    "tags": ["trust", "accuracy", "reliable", "can i trust", "ai mistakes", "errors"],
+    "title": "How Kaidra handles trust and AI accuracy",
+    "text": "Kaidra discloses that its AI-generated responses may occasionally contain errors or incomplete information, and customers are asked to verify important information before acting on it. Customer data remains the customer business's own property, and is handled under Kaidra's PDPA-compliant privacy practices."
+  },
+  {
+    "id": "kaidra-011",
+    "category": "privacy",
+    "tags": ["privacy", "data", "gdpr", "pdpa", "data protection", "personal data", "security", "where is data stored", "cookies"],
+    "title": "Data privacy and security",
+    "text": "Kaidra follows Singapore's Personal Data Protection Act (PDPA). It collects name, contact info, business details, payment info, login/profile data, technical data (IP/browser/OS), and AI interaction data - only as needed to provide the service. Data is retained per type: contact/identity data for 3 years after account termination, business/transaction data until termination or as legally required, payment data until subscription ends, and profile/usage data until account termination. Customers can access, correct, or request deletion of their data, and may file a complaint with Singapore's PDPC. Kaidra implements security measures and regular backups, and may use anonymised/aggregated data to improve the AI without identifying individuals. Cookies are used for site functionality and can be managed in browser settings."
+  },
+  {
+    "id": "kaidra-012",
+    "category": "support",
+    "tags": ["support", "support hours", "help", "customer service", "contact support", "business hours"],
+    "title": "Support hours and contact",
+    "text": "Standard support is available 9:00 am - 5:00 pm, Monday to Friday, Singapore time, via email or phone. Scheduled maintenance is notified in advance where possible. Contact email: contact@kaidra.ai."
+  },
+  {
+    "id": "kaidra-013",
+    "category": "billing",
+    "tags": ["billing", "invoice", "payment terms", "late payment", "fee changes", "taxes"],
+    "title": "Billing terms",
+    "text": "Invoices are payable within 7 days of issue. Late or failed payments may result in temporary suspension of access. Kaidra may adjust fees with 30 days' written notice. All taxes and transaction/gateway charges are the customer's responsibility."
+  },
+  {
+    "id": "kaidra-014",
+    "category": "legal",
+    "tags": ["terms", "liability", "cancellation", "termination", "contract", "governing law", "dispute", "cancel", "refund"],
+    "title": "Contract terms, liability, and termination",
+    "text": "Either party may terminate the service with 60 days' written notice before renewal. Kaidra may suspend or terminate for non-payment beyond 30 days or material breach. After termination, customer data may be deleted or anonymised after 30 days unless legally required to be retained. Kaidra's direct liability is capped at SGD 2,000 per incident; indirect or consequential losses (like lost profit) are excluded, except for liability related to death, personal injury, or fraud, which is never limited. These Terms are governed by the laws of Singapore, and disputes go to arbitration via the Singapore International Arbitration Centre (SIAC)."
+  },
+  {
+    "id": "kaidra-015",
+    "category": "demo",
+    "tags": ["demo", "book a demo", "trial", "try it", "contact sales", "get started", "sign up"],
+    "title": "Booking a demo / free trial",
+    "text": "Visitors can book a demo through the contact form (Name, Email, Business Name, and Phone are required; Message is optional). The team responds within 24 to 48 hours. After onboarding and configuration, businesses receive trial access before activating a paid subscription - so yes, Kaidra does offer a trial period, just not a self-serve one; it's provided as part of the guided onboarding process."
+  },
+  {
+    "id": "kaidra-016",
+    "category": "faq",
+    "tags": ["chatbot", "difference", "how is kaidra different", "generic bot"],
+    "title": "FAQ: How is Kaidra different from a chatbot?",
+    "text": "Generic bots miss conversations, forget follow-ups, and can't personalize retention. Kaidra is purpose-built to acquire, nurture, retain, and grow customers, combining instant 24/7 engagement with predictive retention insights and revenue-focused automation - not just scripted replies."
   }
-}
+]
