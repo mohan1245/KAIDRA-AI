@@ -1,114 +1,805 @@
 [
   {
-    "id": "kaidra-001",
-    "category": "overview",
-    "tags": ["what is kaidra", "what does kaidra do", "about kaidra", "product", "overview"],
-    "title": "What Kaidra AI is",
-    "text": "Kaidra AI provides 24/7 AI agents that engage customers instantly across WhatsApp, Instagram, Web chat, and SMS. It boosts bookings, enhances retention, and automates day-to-day operations for service businesses. Kaidra's tagline is 'Scale Conversations. Grow Revenue.'"
+    "id": "kaidra_about_what_is_kaidra",
+    "category": "About Kaidra",
+    "tags": [
+      "what is kaidra",
+      "overview",
+      "ai agent",
+      "fitness studio",
+      "about"
+    ],
+    "title": "What is Kaidra?",
+    "text": "Kaidra is an AI agent platform built specifically for fitness studios and wellness centres. It provides 24/7 automated agents that handle lead conversion, member retention, and customer support — so your studio never misses an enquiry, even outside business hours. Kaidra agents respond in under 3 seconds, book appointments, follow up with leads, and support existing members, all without needing a human to be available."
   },
   {
-    "id": "kaidra-002",
-    "category": "overview",
-    "tags": ["who is it for", "target market", "industries", "who uses kaidra", "gym", "fitness", "salon", "spa", "clinic", "wellness", "healthcare", "beauty"],
-    "title": "Who Kaidra is for",
-    "text": "Kaidra is built for businesses in the fitness, beauty, wellness, and healthcare sectors - including fitness studios, gyms, salons, spas, clinics, and physiotherapy or rehabilitation centres. While it's marketed heavily toward fitness studios, its Terms of Service explicitly cover this broader range of service businesses."
+    "id": "kaidra_about_who_is_it_for",
+    "category": "About Kaidra",
+    "tags": [
+      "who is kaidra for",
+      "fitness studios",
+      "wellness centres",
+      "gyms",
+      "target audience"
+    ],
+    "title": "Who is Kaidra for?",
+    "text": "Kaidra is designed for fitness studios, gyms, and wellness centres of all sizes. Whether you run a single-location boutique studio or a growing multi-location fitness brand, Kaidra helps you automate customer conversations, convert more leads, and retain existing members — without hiring extra staff. Studios already using Kaidra include Anytime Fitness, F45 Training, and BFT."
   },
   {
-    "id": "kaidra-003",
-    "category": "channels",
-    "tags": ["channels", "whatsapp", "instagram", "sms", "web chat", "messenger", "where does it work"],
-    "title": "Channels Kaidra supports",
-    "text": "Kaidra engages customers across WhatsApp, Instagram, Messenger, SMS, and Web chat - all from one unified system."
+    "id": "kaidra_about_mission",
+    "category": "About Kaidra",
+    "tags": [
+      "mission",
+      "vision",
+      "purpose",
+      "goal",
+      "kaidra team"
+    ],
+    "title": "What is Kaidra's Mission?",
+    "text": "Kaidra's mission is to help fitness businesses scale their conversations and grow revenue through intelligent AI agents. The platform is built on the belief that no lead should go unanswered and no member should churn simply because your team was unavailable. Kaidra gives fitness studios the power of a 24/7 sales and support team — without the overhead."
   },
   {
-    "id": "kaidra-004",
-    "category": "agents",
-    "tags": ["ai agents", "lead conversion", "retention", "upsell", "support", "copilot", "what agents", "features", "capabilities"],
-    "title": "Kaidra's three AI agents",
-    "text": "Kaidra provides three AI agents that work together: (1) Lead Conversion & Growth Agent - engages new leads instantly, answers questions, books appointments 24/7, and nurtures trial users with reminders and follow-ups. (2) Retention & Upsell Agent - identifies at-risk clients early, re-engages them with targeted messages to prevent churn, and recommends relevant upgrades. (3) Support & Staff Copilot - handles FAQs, scheduling, and daily support tasks while giving staff instant access to client notes and insights."
+    "id": "kaidra_about_trusted_by",
+    "category": "About Kaidra",
+    "tags": [
+      "trusted by",
+      "clients",
+      "studios",
+      "brands",
+      "anytime fitness",
+      "f45",
+      "bft"
+    ],
+    "title": "Which Studios Trust Kaidra?",
+    "text": "Kaidra is trusted by a growing number of fitness studios and wellness businesses. Known brands that have used Kaidra include Anytime Fitness, F45 Training, and BFT. These studios use Kaidra to automate lead follow-up, member engagement, and customer support across channels like WhatsApp, Instagram, and SMS."
   },
   {
-    "id": "kaidra-005",
-    "category": "integrations",
-    "tags": ["integrate", "integration", "crm", "mindbody", "glofox", "hapana", "zapier", "calendly", "stripe", "booking system", "payments"],
-    "title": "Integrations",
-    "text": "Kaidra integrates with Mindbody, Glofox, Hapana, Zapier, Calendly, WhatsApp, Instagram, and Stripe - unifying bookings, payments, scheduling, and messaging in one place."
+    "id": "kaidra_agents_overview",
+    "category": "AI Agents Overview",
+    "tags": [
+      "agents",
+      "overview",
+      "three agents",
+      "what agents",
+      "ai agents"
+    ],
+    "title": "What AI Agents Does Kaidra Offer?",
+    "text": "Kaidra offers three core AI agents that work together to cover the full member lifecycle for a fitness studio. The first is the Lead Conversion Agent, which engages new enquiries and books appointments. The second is the Retention and Upsell Agent, which identifies at-risk members and re-engages them before they cancel. The third is the Support and Staff Copilot, which handles FAQs, scheduling, and day-to-day support tasks. Together, these three agents ensure your studio is responsive, proactive, and efficient at every stage of the customer journey."
   },
   {
-    "id": "kaidra-006",
-    "category": "pricing",
-    "tags": ["price", "pricing", "cost", "how much", "plan", "plans", "tiers"],
-    "title": "Pricing",
-    "text": "Kaidra doesn't publish pricing or plan tiers on its website - pricing is sales-led. After a demo/discovery conversation, a business receives a specific Order Confirmation with its fees. There's no self-serve pricing page."
+    "id": "kaidra_agents_always_on",
+    "category": "AI Agents Overview",
+    "tags": [
+      "24/7",
+      "always on",
+      "never miss",
+      "response time",
+      "availability"
+    ],
+    "title": "Are Kaidra Agents Available 24/7?",
+    "text": "Yes. Kaidra agents operate 24 hours a day, 7 days a week — including weekends and public holidays. They respond to enquiries in under 3 seconds, meaning no lead ever has to wait. Whether a prospect messages your studio at 2am or a member asks a question during a public holiday, Kaidra responds instantly without requiring any human involvement."
   },
   {
-    "id": "kaidra-007",
-    "category": "onboarding",
-    "tags": ["onboarding", "setup", "how long", "implement", "get started", "agent lab", "technical skills"],
-    "title": "Getting started / onboarding process",
-    "text": "Kaidra's onboarding has 3 steps: (1) Onboard & Explore - meet the onboarding team, share business details, and try 'Agent Lab' (a sandbox to preview how your AI agent responds) before going live. (2) Connect & Configure - Kaidra integrates your CRM, lead sources, WhatsApp, and other channels, then configures the agent to your workflows; you then get trial access. (3) Go Live & Scale - after a successful trial, you activate your subscription and Kaidra handles engagement, follow-ups, and conversations around the clock. No technical skills are required - the onboarding team handles setup."
+    "id": "kaidra_lead_agent_overview",
+    "category": "Lead Conversion Agent",
+    "tags": [
+      "lead conversion",
+      "lead agent",
+      "new leads",
+      "enquiries",
+      "sales agent"
+    ],
+    "title": "What is the Lead Conversion Agent?",
+    "text": "The Lead Conversion Agent is Kaidra's sales-focused AI that engages new prospects the moment they reach out to your studio. It answers their questions, shares information about your offers and classes, and guides them toward booking a trial or appointment — all automatically. It also sends follow-up messages to nurture leads who showed interest but haven't booked yet, ensuring no opportunity is lost."
   },
   {
-    "id": "kaidra-008",
-    "category": "results",
-    "tags": ["results", "roi", "stats", "response time", "operational load", "booking rate", "proof"],
-    "title": "Results and stats",
-    "text": "Kaidra responds in under 3 seconds, 24/7. Businesses typically see about 38% less operational load as the AI handles FAQs, follow-ups, and trial bookings. Most businesses see positive ROI within 30 days. Client testimonials cite booking-rate increases of up to 40%."
+    "id": "kaidra_lead_agent_capabilities",
+    "category": "Lead Conversion Agent",
+    "tags": [
+      "lead capabilities",
+      "appointment booking",
+      "follow up",
+      "trial booking",
+      "nurture leads"
+    ],
+    "title": "What Can the Lead Conversion Agent Do?",
+    "text": "The Lead Conversion Agent can: instantly respond to new enquiries across WhatsApp, Instagram, Messenger, and SMS; answer questions about memberships, classes, pricing, and offers; book trial appointments and consultations directly in your CRM or booking system; send automated follow-up messages to leads who haven't responded; and nurture trial users with reminders and check-ins to convert them into paying members."
   },
   {
-    "id": "kaidra-009",
-    "category": "social_proof",
-    "tags": ["testimonials", "reviews", "clients", "customers", "who uses kaidra", "case studies", "brands"],
-    "title": "Client testimonials and brands",
-    "text": "Kaidra is used by studios and wellness brands including Club Revive, FTI, BFT, F45, and Anytime Fitness. Testimonial highlights: Anytime Fitness - 'Kaidra increased our booking rate by 40% in the first month. It's like having our best receptionist working 24/7.' BFT - 'We went from missing late-night leads to converting them instantly.' F45 Training - 'Our coaches were overloaded with inquiries. Kaidra now handles first responses and follow-ups, letting our team focus on members.'"
+    "id": "kaidra_retention_agent_overview",
+    "category": "Retention & Upsell Agent",
+    "tags": [
+      "retention",
+      "churn",
+      "upsell",
+      "at-risk members",
+      "member retention"
+    ],
+    "title": "What is the Retention and Upsell Agent?",
+    "text": "The Retention and Upsell Agent monitors your existing member base and identifies members who are at risk of cancelling or going inactive. It automatically sends personalised re-engagement messages at the right time to bring them back before they churn. It also looks for upsell opportunities — recommending relevant upgrades, packages, or add-ons to members who are ready for more."
   },
   {
-    "id": "kaidra-010",
-    "category": "trust",
-    "tags": ["trust", "accuracy", "reliable", "can i trust", "ai mistakes", "errors"],
-    "title": "How Kaidra handles trust and AI accuracy",
-    "text": "Kaidra discloses that its AI-generated responses may occasionally contain errors or incomplete information, and customers are asked to verify important information before acting on it. Customer data remains the customer business's own property, and is handled under Kaidra's PDPA-compliant privacy practices."
+    "id": "kaidra_retention_agent_capabilities",
+    "category": "Retention & Upsell Agent",
+    "tags": [
+      "churn prevention",
+      "re-engagement",
+      "upsell",
+      "cross-sell",
+      "rebooking"
+    ],
+    "title": "What Can the Retention Agent Do?",
+    "text": "The Retention and Upsell Agent can: identify members who have not attended recently or are showing signs of disengagement; send personalised re-engagement messages to bring them back; trigger rebooking reminders at optimal times; recommend membership upgrades or additional services based on member behaviour; and automate upsell and cross-sell messaging to increase revenue per member without manual effort from your team."
   },
   {
-    "id": "kaidra-011",
-    "category": "privacy",
-    "tags": ["privacy", "data", "gdpr", "pdpa", "data protection", "personal data", "security", "where is data stored", "cookies"],
-    "title": "Data privacy and security",
-    "text": "Kaidra follows Singapore's Personal Data Protection Act (PDPA). It collects name, contact info, business details, payment info, login/profile data, technical data (IP/browser/OS), and AI interaction data - only as needed to provide the service. Data is retained per type: contact/identity data for 3 years after account termination, business/transaction data until termination or as legally required, payment data until subscription ends, and profile/usage data until account termination. Customers can access, correct, or request deletion of their data, and may file a complaint with Singapore's PDPC. Kaidra implements security measures and regular backups, and may use anonymised/aggregated data to improve the AI without identifying individuals. Cookies are used for site functionality and can be managed in browser settings."
+    "id": "kaidra_support_copilot_overview",
+    "category": "Support & Staff Copilot",
+    "tags": [
+      "support copilot",
+      "staff copilot",
+      "customer support",
+      "faq",
+      "operational support"
+    ],
+    "title": "What is the Support and Staff Copilot?",
+    "text": "The Support and Staff Copilot is Kaidra's operational AI agent. It handles the day-to-day customer support tasks that would otherwise keep your front-desk team busy — answering frequently asked questions, managing scheduling and reminder messages, and providing instant member information. It also acts as a copilot for your staff, giving them quick access to client insights so they can have more informed conversations."
   },
   {
-    "id": "kaidra-012",
-    "category": "support",
-    "tags": ["support", "support hours", "help", "customer service", "contact support", "business hours"],
-    "title": "Support hours and contact",
-    "text": "Standard support is available 9:00 am - 5:00 pm, Monday to Friday, Singapore time, via email or phone. Scheduled maintenance is notified in advance where possible. Contact email: contact@kaidra.ai."
+    "id": "kaidra_support_copilot_capabilities",
+    "category": "Support & Staff Copilot",
+    "tags": [
+      "faq handling",
+      "scheduling",
+      "reminders",
+      "staff support",
+      "reduce workload"
+    ],
+    "title": "What Can the Support and Staff Copilot Do?",
+    "text": "The Support and Staff Copilot can: answer common member questions about classes, bookings, and studio policies at any time of day; send scheduling reminders and class confirmations; reduce front-desk workload by handling repetitive enquiries automatically; provide staff with instant client insights to improve in-person conversations; and escalate complex issues to a human team member when needed."
   },
   {
-    "id": "kaidra-013",
-    "category": "billing",
-    "tags": ["billing", "invoice", "payment terms", "late payment", "fee changes", "taxes"],
-    "title": "Billing terms",
-    "text": "Invoices are payable within 7 days of issue. Late or failed payments may result in temporary suspension of access. Kaidra may adjust fees with 30 days' written notice. All taxes and transaction/gateway charges are the customer's responsibility."
+    "id": "kaidra_how_it_works_overview",
+    "category": "How It Works",
+    "tags": [
+      "how it works",
+      "process",
+      "setup",
+      "get started",
+      "steps"
+    ],
+    "title": "How Does Kaidra Work?",
+    "text": "Getting started with Kaidra is a simple three-step process. First, you onboard and explore — you meet Kaidra's dedicated team, share details about your studio, and get access to the Agent Lab to test how the AI will respond to your specific customers. Second, you connect and configure — your CRM, booking system, lead sources, and communication channels are all integrated and the agent workflows are set up for your studio. Third, you go live and scale — your subscription is activated and Kaidra starts handling conversations 24/7 from that point forward."
   },
   {
-    "id": "kaidra-014",
-    "category": "legal",
-    "tags": ["terms", "liability", "cancellation", "termination", "contract", "governing law", "dispute", "cancel", "refund"],
-    "title": "Contract terms, liability, and termination",
-    "text": "Either party may terminate the service with 60 days' written notice before renewal. Kaidra may suspend or terminate for non-payment beyond 30 days or material breach. After termination, customer data may be deleted or anonymised after 30 days unless legally required to be retained. Kaidra's direct liability is capped at SGD 2,000 per incident; indirect or consequential losses (like lost profit) are excluded, except for liability related to death, personal injury, or fraud, which is never limited. These Terms are governed by the laws of Singapore, and disputes go to arbitration via the Singapore International Arbitration Centre (SIAC)."
+    "id": "kaidra_how_it_works_step1",
+    "category": "How It Works",
+    "tags": [
+      "onboard",
+      "explore",
+      "agent lab",
+      "first step",
+      "getting started"
+    ],
+    "title": "Step 1 — Onboard and Explore",
+    "text": "In the first step of getting started with Kaidra, you meet the dedicated onboarding team who will guide you through the entire setup. You share details about your studio — your offers, tone of voice, frequently asked questions, and business goals. You also get access to the Agent Lab, where you can test the AI agent and see exactly how it will respond to your customers before going live."
   },
   {
-    "id": "kaidra-015",
-    "category": "demo",
-    "tags": ["demo", "book a demo", "trial", "try it", "contact sales", "get started", "sign up"],
-    "title": "Booking a demo / free trial",
-    "text": "Visitors can book a demo through the contact form (Name, Email, Business Name, and Phone are required; Message is optional). The team responds within 24 to 48 hours. After onboarding and configuration, businesses receive trial access before activating a paid subscription - so yes, Kaidra does offer a trial period, just not a self-serve one; it's provided as part of the guided onboarding process."
+    "id": "kaidra_how_it_works_step2",
+    "category": "How It Works",
+    "tags": [
+      "connect",
+      "configure",
+      "crm integration",
+      "channel setup",
+      "workflow"
+    ],
+    "title": "Step 2 — Connect and Configure",
+    "text": "In the second step, Kaidra connects to your existing systems. This includes integrating with your CRM or booking platform (such as Mindbody, Glofox, or Hapana), connecting your communication channels (WhatsApp, Instagram, Messenger, SMS), and linking your lead sources. The agent workflows are then configured specifically for your studio's needs — so the AI knows exactly how to handle enquiries, follow-ups, and member conversations."
   },
   {
-    "id": "kaidra-016",
-    "category": "faq",
-    "tags": ["chatbot", "difference", "how is kaidra different", "generic bot"],
-    "title": "FAQ: How is Kaidra different from a chatbot?",
-    "text": "Generic bots miss conversations, forget follow-ups, and can't personalize retention. Kaidra is purpose-built to acquire, nurture, retain, and grow customers, combining instant 24/7 engagement with predictive retention insights and revenue-focused automation - not just scripted replies."
+    "id": "kaidra_how_it_works_step3",
+    "category": "How It Works",
+    "tags": [
+      "go live",
+      "activate",
+      "scale",
+      "24/7",
+      "launch"
+    ],
+    "title": "Step 3 — Go Live and Scale",
+    "text": "In the third step, your Kaidra subscription is activated and your AI agents go live. From this point, Kaidra operates 24/7 — engaging new leads, following up with prospects, supporting existing members, and handling operational queries automatically. As your studio grows, Kaidra scales with you, handling increasing volumes of conversations without any extra effort on your part."
+  },
+  {
+    "id": "kaidra_channels_overview",
+    "category": "Channels & Platforms",
+    "tags": [
+      "channels",
+      "platforms",
+      "whatsapp",
+      "instagram",
+      "sms",
+      "messenger",
+      "web"
+    ],
+    "title": "Which Channels Does Kaidra Support?",
+    "text": "Kaidra agents operate across multiple communication channels so you can reach your leads and members wherever they are. Supported channels include WhatsApp, Instagram Direct Messages, Facebook Messenger, SMS, and web messaging. This means a prospect can message your studio on Instagram at midnight and receive an instant, helpful response — without any human involvement."
+  },
+  {
+    "id": "kaidra_channels_whatsapp",
+    "category": "Channels & Platforms",
+    "tags": [
+      "whatsapp",
+      "whatsapp business",
+      "whatsapp agent",
+      "messaging"
+    ],
+    "title": "Does Kaidra Work on WhatsApp?",
+    "text": "Yes. WhatsApp is one of Kaidra's primary supported channels. Your AI agent can engage with leads and members via WhatsApp Business, sending and receiving messages, booking appointments, answering questions, and following up — all through WhatsApp. This is particularly effective for fitness studios in markets where WhatsApp is the preferred communication channel."
+  },
+  {
+    "id": "kaidra_channels_instagram",
+    "category": "Channels & Platforms",
+    "tags": [
+      "instagram",
+      "instagram dm",
+      "social media",
+      "instagram messages"
+    ],
+    "title": "Does Kaidra Work on Instagram?",
+    "text": "Yes. Kaidra supports Instagram Direct Messages. When a prospect or member sends a DM to your studio's Instagram account, Kaidra responds instantly with the relevant information — whether it's about membership pricing, class schedules, or booking a trial. This ensures your Instagram account becomes an active sales and support channel, not just a content feed."
+  },
+  {
+    "id": "kaidra_integrations_overview",
+    "category": "Integrations",
+    "tags": [
+      "integrations",
+      "connect",
+      "third party",
+      "systems",
+      "tools"
+    ],
+    "title": "What Systems Does Kaidra Integrate With?",
+    "text": "Kaidra integrates with the most widely used fitness and business tools, including Mindbody, Glofox, Hapana, Zapier, Calendly, and Stripe. These integrations allow Kaidra to read and update your booking system, process payments where applicable, connect lead sources, and automate workflows — all without manual data entry. If you use a system not listed here, contact the Kaidra team to discuss compatibility."
+  },
+  {
+    "id": "kaidra_integrations_crm",
+    "category": "Integrations",
+    "tags": [
+      "mindbody",
+      "glofox",
+      "hapana",
+      "crm",
+      "booking system",
+      "crm integration"
+    ],
+    "title": "Does Kaidra Integrate with Mindbody, Glofox or Hapana?",
+    "text": "Yes. Kaidra has native integrations with Mindbody, Glofox, and Hapana — three of the most popular CRM and booking platforms used by fitness studios. Once connected, Kaidra can check availability, book appointments, access member information, and update records directly within your existing system. This means your team always has accurate, up-to-date information without any manual syncing."
+  },
+  {
+    "id": "kaidra_integrations_zapier_calendly",
+    "category": "Integrations",
+    "tags": [
+      "zapier",
+      "calendly",
+      "automation",
+      "scheduling",
+      "workflow automation"
+    ],
+    "title": "Does Kaidra Work with Zapier and Calendly?",
+    "text": "Yes. Kaidra integrates with both Zapier and Calendly. The Zapier integration allows you to connect Kaidra with hundreds of other apps and automate custom workflows beyond the standard setup. The Calendly integration enables Kaidra to book appointments and consultations directly into your Calendly calendar, without requiring a lead to visit a separate booking page."
+  },
+  {
+    "id": "kaidra_results_booking_increase",
+    "category": "Results & ROI",
+    "tags": [
+      "results",
+      "booking increase",
+      "anytime fitness",
+      "40 percent",
+      "performance"
+    ],
+    "title": "What Results Can I Expect from Kaidra?",
+    "text": "Studios using Kaidra have reported a 40% increase in booking rates. Anytime Fitness is one example of a brand that achieved this result after deploying Kaidra's AI agents. In addition to more bookings, studios typically see faster lead response times, reduced staff workload, and improved member retention. Results vary by studio size and engagement, but Kaidra is designed to deliver a positive impact from the first month."
+  },
+  {
+    "id": "kaidra_results_roi",
+    "category": "Results & ROI",
+    "tags": [
+      "roi",
+      "return on investment",
+      "30 days",
+      "payback",
+      "value"
+    ],
+    "title": "How Quickly Will I See ROI from Kaidra?",
+    "text": "Kaidra is designed to deliver a return on investment within 30 days of going live. Because the agents start engaging leads and following up with prospects immediately after activation, studios typically see an increase in bookings and trial conversions within the first few weeks. The reduction in manual staff time also contributes to a measurable cost saving from day one."
+  },
+  {
+    "id": "kaidra_results_response_time",
+    "category": "Results & ROI",
+    "tags": [
+      "response time",
+      "3 seconds",
+      "instant response",
+      "speed",
+      "lead response"
+    ],
+    "title": "How Fast Does Kaidra Respond to Leads?",
+    "text": "Kaidra responds to new enquiries in under 3 seconds — at any time of day or night. Research consistently shows that leads are significantly more likely to convert when contacted within the first few minutes of enquiring. Kaidra ensures your studio is always the fastest to respond, giving you a major competitive advantage over studios that rely on manual follow-up."
+  },
+  {
+    "id": "kaidra_trial_free_trial",
+    "category": "Getting Started & Free Trial",
+    "tags": [
+      "free trial",
+      "trial",
+      "try kaidra",
+      "test",
+      "no commitment"
+    ],
+    "title": "Does Kaidra Offer a Free Trial?",
+    "text": "Yes, Kaidra offers a free trial so you can experience the platform before committing. During the trial, you get access to the Agent Lab where you can see how the AI responds to your studio's specific enquiries. To get started with a free trial, you can book a demo through the Kaidra website or reach out to the team at contact@kaidra.ai."
+  },
+  {
+    "id": "kaidra_trial_how_to_start",
+    "category": "Getting Started & Free Trial",
+    "tags": [
+      "how to start",
+      "get started",
+      "sign up",
+      "begin",
+      "onboarding"
+    ],
+    "title": "How Do I Get Started with Kaidra?",
+    "text": "Getting started with Kaidra is straightforward. The first step is to book a demo through the Kaidra website at kaidra.ai, where you can see the platform in action and discuss your studio's specific needs with the team. After the demo, Kaidra's onboarding team will guide you through integration, configuration, and going live — typically within a short setup period."
+  },
+  {
+    "id": "kaidra_trial_book_demo",
+    "category": "Getting Started & Free Trial",
+    "tags": [
+      "book demo",
+      "demo",
+      "schedule demo",
+      "see kaidra",
+      "request demo"
+    ],
+    "title": "How Do I Book a Demo?",
+    "text": "You can book a demo directly on the Kaidra website at kaidra.ai. Simply fill in the contact form with your name, studio details, and preferred time, and the Kaidra team will get back to you within 24 to 48 hours to confirm. The demo is a live walkthrough of the platform tailored to your studio — showing you exactly how Kaidra would handle your specific enquiries and workflows."
+  },
+  {
+    "id": "kaidra_contact_email",
+    "category": "Contact & Support",
+    "tags": [
+      "contact",
+      "email",
+      "reach out",
+      "get in touch",
+      "contact kaidra"
+    ],
+    "title": "How Do I Contact Kaidra?",
+    "text": "You can contact the Kaidra team by email at contact@kaidra.ai. The team typically responds within 24 to 48 hours. You can also reach out through the contact form available on the Kaidra website at kaidra.ai. For urgent queries, booking a demo through the website is the fastest way to get a conversation started with the team."
+  },
+  {
+    "id": "kaidra_contact_response_time",
+    "category": "Contact & Support",
+    "tags": [
+      "response time",
+      "how long",
+      "reply time",
+      "support speed",
+      "24 hours"
+    ],
+    "title": "How Quickly Does the Kaidra Team Respond?",
+    "text": "The Kaidra team aims to respond to all enquiries within 24 to 48 hours. If you have sent an email to contact@kaidra.ai or submitted a form on the website, you can expect to hear back within that window. For faster assistance, booking a demo directly through the website will connect you with the team more quickly."
+  },
+  {
+    "id": "kaidra_contact_support_during_onboarding",
+    "category": "Contact & Support",
+    "tags": [
+      "support",
+      "onboarding support",
+      "dedicated team",
+      "help",
+      "guidance"
+    ],
+    "title": "What Support Do I Get After Signing Up?",
+    "text": "After signing up with Kaidra, you are assigned a dedicated onboarding team who guides you through the entire setup process. This includes help with integrating your CRM, connecting your communication channels, configuring your agent workflows, and testing everything in the Agent Lab before going live. Ongoing support is available after launch to help you optimise performance and address any questions."
+  },
+  {
+    "id": "kaidra_faq_vs_chatbot",
+    "category": "FAQ",
+    "tags": [
+      "chatbot",
+      "difference",
+      "ai vs chatbot",
+      "not a chatbot",
+      "intelligent"
+    ],
+    "title": "How is Kaidra Different from a Chatbot?",
+    "text": "Kaidra is very different from a traditional chatbot. A standard chatbot follows fixed scripts and can only respond to exact keywords — it breaks down quickly when a customer asks something unexpected. Kaidra uses advanced conversational AI that understands natural language, handles complex and varied questions, remembers context across a conversation, and adapts its tone to match your studio's brand. It behaves more like a knowledgeable team member than a scripted bot."
+  },
+  {
+    "id": "kaidra_faq_trust",
+    "category": "FAQ",
+    "tags": [
+      "trust",
+      "safe",
+      "reliable",
+      "accurate",
+      "can i trust kaidra"
+    ],
+    "title": "How Can I Trust Kaidra to Talk to My Customers?",
+    "text": "Kaidra is built specifically for fitness studios, which means it is trained and configured around your studio's specific information — your offers, policies, classes, and tone of voice. Before going live, you test the agent in the Agent Lab to see exactly how it responds to your customers' questions. You can also review conversations at any time and step in whenever needed. The agent is designed to stay within the boundaries of what your studio has approved."
+  },
+  {
+    "id": "kaidra_faq_unknown_answer",
+    "category": "FAQ",
+    "tags": [
+      "doesn't know",
+      "unknown question",
+      "escalate",
+      "handover",
+      "human takeover"
+    ],
+    "title": "What if Kaidra Doesn't Know How to Answer Something?",
+    "text": "If Kaidra encounters a question it cannot confidently answer, it does not guess or make up information. Instead, it handles the situation gracefully — either asking a clarifying question, letting the customer know that a team member will follow up, or escalating the conversation to a human staff member. This ensures your customers always receive an honest and appropriate response, even in edge cases."
+  },
+  {
+    "id": "kaidra_faq_setup_time",
+    "category": "FAQ",
+    "tags": [
+      "setup time",
+      "how long",
+      "onboarding time",
+      "go live",
+      "implementation"
+    ],
+    "title": "How Long Does Setup Take?",
+    "text": "That's a great question! The exact setup time depends on your studio's specific systems and requirements. Someone from our team will be happy to give you a precise timeline based on your setup. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_faq_technical_skills",
+    "category": "FAQ",
+    "tags": [
+      "technical skills",
+      "technical knowledge",
+      "coding",
+      "it skills",
+      "easy to use"
+    ],
+    "title": "Do I Need Technical Skills to Use Kaidra?",
+    "text": "No technical skills are required to use Kaidra. The onboarding team handles all the technical setup — including integrations, channel connections, and agent configuration. As a studio owner or manager, you simply share information about your business and review how the agent responds in the Agent Lab. Everything is handled for you."
+  },
+  {
+    "id": "kaidra_faq_crm_integration",
+    "category": "FAQ",
+    "tags": [
+      "crm",
+      "booking system",
+      "integrate",
+      "mindbody",
+      "glofox",
+      "connect"
+    ],
+    "title": "Can Kaidra Integrate with My CRM and Booking System?",
+    "text": "Yes. Kaidra integrates with leading fitness CRM and booking platforms including Mindbody, Glofox, and Hapana. It also connects with tools like Zapier, Calendly, and Stripe. If you use a different system, contact the Kaidra team at contact@kaidra.ai to discuss whether an integration is available or can be built for your setup."
+  },
+  {
+    "id": "kaidra_faq_book_appointments",
+    "category": "FAQ",
+    "tags": [
+      "book appointments",
+      "trial booking",
+      "schedule",
+      "appointment automation",
+      "booking"
+    ],
+    "title": "Can Kaidra Book Appointments or Trials?",
+    "text": "Yes. Kaidra can book appointments, trial classes, and consultations directly through your connected CRM or booking system. When a lead expresses interest, Kaidra guides them through the booking process within the same conversation — without sending them to a separate page or requiring staff involvement. This significantly reduces the drop-off between initial enquiry and confirmed booking."
+  },
+  {
+    "id": "kaidra_faq_review_conversations",
+    "category": "FAQ",
+    "tags": [
+      "review conversations",
+      "take over",
+      "human handover",
+      "monitor",
+      "oversight"
+    ],
+    "title": "Can I Review or Take Over Conversations?",
+    "text": "Yes. You can review all conversations that Kaidra has handled at any time. If you see a conversation that needs human attention — for example, a complex complaint or a high-value prospect — you can step in and take over the conversation directly. Kaidra is designed to support your team, not replace the human touch when it matters most."
+  },
+  {
+    "id": "kaidra_faq_roi",
+    "category": "FAQ",
+    "tags": [
+      "roi",
+      "return on investment",
+      "value",
+      "worth it",
+      "results"
+    ],
+    "title": "What ROI Can I Expect from Kaidra?",
+    "text": "Studios using Kaidra typically see a positive return on investment within 30 days. This comes from a combination of increased bookings (Anytime Fitness reported a 40% booking rate increase), reduced staff time spent on repetitive enquiries, fewer missed leads, and improved member retention. The exact ROI depends on your studio's size, lead volume, and current conversion rates."
+  },
+  {
+    "id": "kaidra_pricing_overview",
+    "category": "Pricing & Plans",
+    "tags": [
+      "pricing",
+      "plans",
+      "cost",
+      "how much",
+      "subscription",
+      "fee"
+    ],
+    "title": "How Much Does Kaidra Cost?",
+    "text": "That's a great question! Kaidra's pricing is tailored to each studio based on size, usage, and requirements. Someone from our team will be happy to walk you through the available plans and find the right fit for your studio. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_pricing_plans_detail",
+    "category": "Pricing & Plans",
+    "tags": [
+      "plans",
+      "tiers",
+      "packages",
+      "what's included",
+      "subscription tiers"
+    ],
+    "title": "What Plans Does Kaidra Offer?",
+    "text": "That's a great question! Kaidra offers different plans to suit studios at different stages of growth. Someone from our team will be happy to share the full plan breakdown and help you choose the right option. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_onboarding_what_is_needed",
+    "category": "Onboarding & Setup",
+    "tags": [
+      "what do i need",
+      "requirements",
+      "setup requirements",
+      "before starting",
+      "prerequisites"
+    ],
+    "title": "What Do I Need to Get Started with Kaidra?",
+    "text": "To get started with Kaidra, you need access to your studio's communication channels (such as WhatsApp Business or Instagram), your CRM or booking system credentials, and basic information about your studio — including your offers, class schedule, FAQs, and tone of voice. Kaidra's onboarding team will guide you through everything and handle the technical setup on your behalf."
+  },
+  {
+    "id": "kaidra_onboarding_agent_lab",
+    "category": "Onboarding & Setup",
+    "tags": [
+      "agent lab",
+      "testing",
+      "preview",
+      "test agent",
+      "before live"
+    ],
+    "title": "What is the Kaidra Agent Lab?",
+    "text": "The Agent Lab is a testing environment provided during your Kaidra onboarding. It allows you to interact with your configured AI agent before it goes live — sending sample messages and seeing exactly how it would respond to your real customers. This gives you confidence that the agent is set up correctly and aligned with your studio's brand and information before any customer ever sees it."
+  },
+  {
+    "id": "kaidra_onboarding_timeline",
+    "category": "Onboarding & Setup",
+    "tags": [
+      "onboarding timeline",
+      "setup time",
+      "how long to set up",
+      "go live date",
+      "time to launch"
+    ],
+    "title": "How Long Does Kaidra Onboarding Take?",
+    "text": "That's a great question! The onboarding timeline varies depending on your studio's setup and integrations. Someone from our team will be happy to give you a clear timeline based on your specific requirements. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_security_data_privacy",
+    "category": "Security & Data Privacy",
+    "tags": [
+      "security",
+      "data privacy",
+      "gdpr",
+      "data protection",
+      "safe",
+      "customer data"
+    ],
+    "title": "How Does Kaidra Handle Customer Data?",
+    "text": "That's a great question! Data security and privacy are important to us. Someone from our team will be happy to walk you through how Kaidra handles and protects your studio's customer data. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_security_compliance",
+    "category": "Security & Data Privacy",
+    "tags": [
+      "compliance",
+      "gdpr",
+      "data laws",
+      "regulations",
+      "legal"
+    ],
+    "title": "Is Kaidra Compliant with Data Protection Regulations?",
+    "text": "That's a great question! Compliance with data regulations is something our team takes seriously. Someone from our team will be happy to share more details about Kaidra's compliance posture. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_customisation_agent_tone",
+    "category": "Customisation",
+    "tags": [
+      "customise",
+      "tone",
+      "brand voice",
+      "personality",
+      "agent name",
+      "custom agent"
+    ],
+    "title": "Can I Customise the Kaidra Agent for My Studio?",
+    "text": "Yes. Kaidra agents are configured specifically for your studio — including your tone of voice, brand personality, frequently asked questions, offers, and policies. During onboarding, you share all of this information with the Kaidra team, who build the agent's knowledge base and communication style around your studio. The result is an agent that feels like a natural extension of your team, not a generic chatbot."
+  },
+  {
+    "id": "kaidra_customisation_knowledge_base",
+    "category": "Customisation",
+    "tags": [
+      "knowledge base",
+      "custom information",
+      "studio info",
+      "update content",
+      "change information"
+    ],
+    "title": "Can I Update the Information the Agent Uses?",
+    "text": "That's a great question! The ability to update your agent's knowledge base — such as pricing, class schedules, and offers — is an important part of keeping your agent accurate. Someone from our team will be happy to explain how updates are managed. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_languages_supported",
+    "category": "Languages Supported",
+    "tags": [
+      "languages",
+      "multilingual",
+      "english",
+      "other languages",
+      "language support"
+    ],
+    "title": "What Languages Does Kaidra Support?",
+    "text": "That's a great question! Language support is an important consideration for studios serving diverse communities. Someone from our team will be happy to share which languages Kaidra currently supports and what's on the roadmap. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_cancellation_policy",
+    "category": "Cancellation & Contracts",
+    "tags": [
+      "cancellation",
+      "cancel",
+      "stop subscription",
+      "exit",
+      "leave"
+    ],
+    "title": "Can I Cancel My Kaidra Subscription?",
+    "text": "That's a great question! Our team will be happy to walk you through the subscription terms and cancellation process. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_contracts_lock_in",
+    "category": "Cancellation & Contracts",
+    "tags": [
+      "contract",
+      "lock-in",
+      "commitment",
+      "minimum term",
+      "no contract"
+    ],
+    "title": "Is There a Lock-In Contract with Kaidra?",
+    "text": "That's a great question! Contract terms vary depending on the plan you choose. Someone from our team will be happy to share the specific terms and help you find the right arrangement for your studio. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_training_documentation",
+    "category": "Training & Documentation",
+    "tags": [
+      "documentation",
+      "help centre",
+      "guides",
+      "tutorials",
+      "training materials"
+    ],
+    "title": "Is There Documentation or a Help Centre for Kaidra?",
+    "text": "That's a great question! Someone from our team will be happy to share what training materials, guides, and documentation are available to help you get the most out of Kaidra. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_training_ongoing_support",
+    "category": "Training & Documentation",
+    "tags": [
+      "ongoing support",
+      "after setup",
+      "help after launch",
+      "post launch",
+      "long term support"
+    ],
+    "title": "What Ongoing Support Does Kaidra Provide After Launch?",
+    "text": "Kaidra provides a dedicated onboarding team to support you through the initial setup and launch phase. For ongoing support after going live, the team is reachable at contact@kaidra.ai. For more detail on what ongoing support looks like for your plan, someone from the team will be happy to help — could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_partnership_program",
+    "category": "Partnership & Referral",
+    "tags": [
+      "partnership",
+      "partner",
+      "reseller",
+      "agency",
+      "affiliate"
+    ],
+    "title": "Does Kaidra Have a Partner or Reseller Program?",
+    "text": "That's a great question! Someone from our team will be happy to share details about any partnership or referral opportunities available with Kaidra. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_referral_program",
+    "category": "Partnership & Referral",
+    "tags": [
+      "referral",
+      "refer a friend",
+      "commission",
+      "earn",
+      "introduce"
+    ],
+    "title": "Does Kaidra Have a Referral Program?",
+    "text": "That's a great question! If you are interested in referring other studios to Kaidra, our team would love to speak with you. Could you please share your phone number or email address so we can get back to you with more details?"
+  },
+  {
+    "id": "kaidra_case_study_anytime_fitness",
+    "category": "Case Studies & Success Stories",
+    "tags": [
+      "anytime fitness",
+      "case study",
+      "success story",
+      "40 percent",
+      "results",
+      "example"
+    ],
+    "title": "Kaidra at Anytime Fitness",
+    "text": "Anytime Fitness is one of the fitness brands that has used Kaidra's AI agents and reported a 40% increase in booking rates after deployment. This result was achieved through Kaidra's Lead Conversion Agent engaging prospects instantly, following up automatically, and removing the delay between a lead's initial enquiry and a confirmed booking."
+  },
+  {
+    "id": "kaidra_case_study_brands",
+    "category": "Case Studies & Success Stories",
+    "tags": [
+      "brands",
+      "studios",
+      "clients",
+      "f45",
+      "bft",
+      "anytime fitness",
+      "who uses kaidra"
+    ],
+    "title": "Which Fitness Brands Use Kaidra?",
+    "text": "Kaidra is used by a growing number of fitness studios and wellness brands. Known names that have worked with Kaidra include Anytime Fitness, F45 Training, and BFT. These brands use Kaidra to automate lead follow-up, improve member engagement, and reduce front-desk workload across their locations. For more detailed case studies and results, reach out to the Kaidra team at contact@kaidra.ai."
+  },
+  {
+    "id": "kaidra_case_study_more",
+    "category": "Case Studies & Success Stories",
+    "tags": [
+      "more case studies",
+      "other results",
+      "proof",
+      "testimonials",
+      "examples"
+    ],
+    "title": "Are There More Case Studies Available?",
+    "text": "That's a great question! Our team would love to share more detailed success stories and results from studios similar to yours. Could you please share your phone number or email address so we can send you the relevant case studies and get back to you?"
+  },
+  {
+    "id": "kaidra_updates_new_features",
+    "category": "Updates & New Features",
+    "tags": [
+      "updates",
+      "new features",
+      "product roadmap",
+      "improvements",
+      "what's new"
+    ],
+    "title": "How Often Does Kaidra Release New Features?",
+    "text": "That's a great question! Someone from our team will be happy to share details about Kaidra's product updates and what's coming next. Could you please share your phone number or email address so we can get back to you?"
+  },
+  {
+    "id": "kaidra_updates_notification",
+    "category": "Updates & New Features",
+    "tags": [
+      "notified",
+      "update notifications",
+      "new release",
+      "changelog",
+      "stay informed"
+    ],
+    "title": "How Will I Be Notified About Kaidra Updates?",
+    "text": "That's a great question! Our team will be happy to explain how update communications are handled for Kaidra customers. Could you please share your phone number or email address so we can get back to you with more details?"
   }
 ]
